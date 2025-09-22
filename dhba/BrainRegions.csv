@@ -1,0 +1,3439 @@
+﻿Circuit ID,Source of ID,Names
+Br,DHBA,brain
+N,collection,Oculomotor nuclei (ROI2)
+BN_out,collection,output of basal ganglia
+brainstem,collection,brainstem
+F,DHBA,forebrain (prosencephalon)
+FGM,DHBA,gray matter of forebrain
+FTS,DHBA,transient structures of forebrain
+SG,DHBA,subpial granular zone
+fSG,DHBA,SG in frontal neocortex
+fSGfp,DHBA,SG in frontal polar cortex
+fSGdm,DHBA,SG in dorsomedial frontal cortex
+fSGdl,DHBA,SG in dorsolateral prefrontal cortex
+fSGvl,DHBA,SG in ventrolateral prefrontal cortex
+fSGor,DHBA,SG in orbital frontal cortex
+fSGm1,DHBA,SG in posterior frontal cortex (motor cortex)
+pSG,DHBA,SG in parietal neocortex
+pSGs1,DHBA,SG in primary somatosensory cortex
+pSGdm,DHBA,SG in dorsomedial parietal cortex (area 7m)
+pSGpd,DHBA,SG in posterosuperior (dorsal) parietal cortex
+pSGpv,DHBA,SG in posteroinferior (ventral) parietal cortex
+tSG,DHBA,SG in temporal neocortex
+tSGdl,DHBA,SG in dorsolateral temporal cortex
+tSGa1,DHBA,SG in primary auditory cortex
+tSGsl,DHBA,SG in superolateral temporal cortex
+tSGps,DHBA,SG in polysensory temporal cortex
+tSGpi,DHBA,SG in parainsular temporal cortex
+tSGvl,DHBA,SG in ventrolateral temporal cortex
+tSGml,DHBA,SG in midlateral temporal cortex
+tSGil,DHBA,SG in inferolateral temporal cortex
+tSGmi,DHBA,SG in midinferior temporal cortex
+tSG36,DHBA,SG in rostral midinferior temporal cortex (area 36)
+tSGtf,DHBA,SG in caudal midinferior temporal cortex (area TF)
+tSGph,DHBA,SG in posterior parahippocampal cortex
+tSGmt,DHBA,SG in medial temporal-occipital cortex
+tSGlt,DHBA,SG in lateral temporal-occipital cortex
+tSGtp,DHBA,SG in temporal polar cortex
+oSG,DHBA,SG in occipital neocortex
+oSGpro,DHBA,SG in area prostriata
+oSGv1,DHBA,SG in primary visual cortex
+oSGexs,DHBA,SG in extrastriate cortex
+oSGdm,DHBA,SG in dorsomedial extrastriate cortex (V2)
+oSGvm,DHBA,SG in ventromedial extrastriate cortex (VP)
+oSGml,DHBA,SG in midlateral extrastriate cortex (area 19)
+iSG,DHBA,SG in insular neocortex
+iSGdg,DHBA,SG in dysgranular insular cortex
+iSGg,DHBA,SG in granular insular cortex
+cSG,DHBA,SG in cingulate neocortex
+cSGr,DHBA,SG in rostral cingulate cortex
+cSGmi,DHBA,SG in midcingulate cortex
+cSGc,DHBA,SG in caudal cingulate cortex
+cSGsg,DHBA,SG in subgenual (subcallosal) cingulate cortex
+peSG,DHBA,SG in periallocortex
+SGPC,DHBA,SG in perirhinal cortex
+SGpcr,DHBA,SG in rostral perirhinal cortex
+SGpcc,DHBA,SG in caudal perirhinal cortex
+SGpas,DHBA,SG in parasubicular cortex
+SGec,DHBA,SG in entorhinal cortex
+SGecl,DHBA,SG in lateral (anterior) entorhinal cortex
+SGEo,DHBA,SG in olfactory entorhinal cortex
+SGEr,DHBA,SG in rostral entorhinal cortex
+SGecm,DHBA,SG in medial (posterior) entorhinal cortex
+SGEc,DHBA,SG in caudal entorhinal cortex
+SGprs,DHBA,SG in presubicular cortex
+SGprsr,DHBA,SG in rostral presubicular cortex
+SGprsc,DHBA,SG in caudal presubicular cortex
+SGrs,DHBA,SG in retrosplenial cortex
+SGIag,DHBA,SG in agranular insular cortex
+alSG,DHBA,SG in allocortex
+SGhip,DHBA,SG in hippocampal proper
+SGsub,DHBA,SG in subicular cortex
+SGpir,DHBA,SG in piriform cortex
+SGiag,DHBA,SG in agranular insular cortex
+MZ,DHBA,marginal zone
+fMZ,DHBA,MZ in frontal neocortex
+fMZfp,DHBA,MZ in frontal polar cortex
+fMZdm,DHBA,MZ in dorsomedial frontal cortex
+fMZdl,DHBA,MZ in dorsolateral prefrontal cortex
+fMZvl,DHBA,MZ in ventrolateral prefrontal cortex
+fMZor,DHBA,MZ in orbital frontal cortex
+fMZm1,DHBA,MZ in posteror frontal cortex (motor cortex)
+pMZ,DHBA,MZ in parietal neocortex
+pMZs1,DHBA,MZ in primary somatosensory cortex
+pMZdm,DHBA,MZ in dorsomedial parietal cortex
+pMZpd,DHBA,MZ in posterodorsal (superior) parietal cortex
+pMZpv,DHBA,MZ in posteroventral (inferior) parietal cortex
+tMZ,DHBA,MZ in temporal neocortex
+tMZdl,DHBA,MZ in dorsolateral temporal cortex
+tMZa1,DHBA,MZ in primary auditory cortex
+tMZsl,DHBA,MZ in superolateral temporal cortex
+tMZps,DHBA,MZ in polysensory temporal cortex
+tMZpi,DHBA,MZ in parainsular temporal cortex
+tMZvl,DHBA,MZ in ventrolateral temporal cortex
+tMZml,DHBA,MZ in midlateral temporal cortex
+tMZil,DHBA,MZ in inferolateral temporal cortex
+tMZmi,DHBA,MZ in midinferior temporal cortex
+tMZ36,DHBA,MZ in rostral midinferior temporal cortex (area 36)
+tMZtf,DHBA,MZ in caudal midinferior temporal cortex (area TF)
+tMZph,DHBA,MZ in posterior parahippocampal cortex
+tMZmt,DHBA,MZ in medial temporal-occipital cortex
+tMZlt,DHBA,MZ in lateral temporal-occipital cortex
+tMZtp,DHBA,MZ in temporal polar cortex
+oMZ,DHBA,MZ in occipital neocortex
+oMZpro,DHBA,MZ in area prostriata
+oMZv1,DHBA,MZ in primary visual cortex
+oMZexs,DHBA,MZ in extrastriate cortex
+oMZdm,DHBA,MZ in dorsomedial extrastriate cortex (V2)
+oMZvm,DHBA,MZ in ventromedial extrastriate cortex (VP)
+oMZml,DHBA,MZ in midlateral extrastriate cortex (area 19)
+iMZ,DHBA,MZ in insular neocortex
+iMZdg,DHBA,MZ in dysgranular insular cortex
+iMZgr,DHBA,MZ in granular insular cortex
+cMZ,DHBA,MZ in cingulate neocortex
+cMZr,DHBA,MZ in rostral cingulate cortex
+cMZmi,DHBA,MZ in midcingulate cortex
+cMZc,DHBA,MZ in caudal cingulate cortex
+cMZsg,DHBA,MZ in subgenual (subcallosal) cingulate cortex
+peMZ,DHBA,MZ in periallocortex
+MZpc,DHBA,MZ in perirhinal cortex
+MZpcr,DHBA,MZ in rostral perirhinal cortex
+MZpcc,DHBA,MZ in caudal perirhinal cortex
+MZpas,DHBA,MZ in parasubicular cortex
+MZEC,DHBA,MZ in entorhinal cortex
+MZlec,DHBA,MZ in lateral (anterior) entorhinal cortex
+MZeo,DHBA,MZ in olfactory entorhinal cortex
+Mzer,DHBA,MZ in rostral entorhinal cortex
+MZmec,DHBA,MZ in medial (posterior) entorhinal cortex
+MZec,DHBA,MZ in caudal entorhinal cortex
+MZprs,DHBA,MZ in presubicular cortex
+MZprsr,DHBA,MZ in rostral presubicular cortex
+MZprsc,DHBA,MZ in caudal presubicular cortex (postsubiculum)
+MZrs,DHBA,MZ in retrosplenial cortex
+MZIag,DHBA,MZ in agranular insular cortex
+alMZ,DHBA,MZ in allocortex
+MZhip,DHBA,MZ in hippocampal proper
+MZhipr,DHBA,MZ in rostral hippocampal proper
+MZhipc,DHBA,MZ in caudal hippocampal proper
+MZsub,DHBA,MZ in subicular cortex
+MZsubr,DHBA,MZ in rostral subicular cortex
+MZsubc,DHBA,MZ in caudal subicular cortex
+MZpir,DHBA,MZ in piriform cortex
+MZiag,DHBA,MZ in agranular insular cortex
+CP,DHBA,cortical plate
+fCP,DHBA,CP in frontal neocortex
+fCPfp,DHBA,CP in frontal polar cortex
+fCPfpo,DHBA,outer CP in frontal polar cortex
+fCPfpi,DHBA,inner CP in frontal polar cortex
+fCPdm,DHBA,CP in dorsomedial frontal cortex
+fCPdmo,DHBA,outer CP in dorsomedial frontal cortex
+fCPdmi,DHBA,inner CP in dorsomedial frontal cortex
+fCPdl,DHBA,CP in dorsolateral prefrontal cortex
+fCPdlo,DHBA,outer CP in dorsolateral prefrontal cortex
+fCPdli,DHBA,inner CP in dorsolateral prefrontal cortex
+fCPvl,DHBA,CP in ventrolateral prefrontal cortex
+fCPvlo,DHBA,outer CP in ventrolateral prefrontal cortex
+fCPvli,DHBA,inner CP in ventrolateral prefrontal cortex
+fCPor,DHBA,CP in orbital frontal cortex
+fCPoro,DHBA,outer CP in orbital frontal cortex
+fCPori,DHBA,inner CP in orbital frontal cortex
+fCPm1,DHBA,CP in posterior frontal cortex (motor cortex)
+fCPm1o,DHBA,outer CP in posteror frontal cortex (motor cortex)
+fCPm1i,DHBA,inner CP in posteror frontal cortex (motor cortex)
+pCP,DHBA,CP in parietal neocortex
+pCPs1,DHBA,CP in primary somatosensory cortex
+pCPs1o,DHBA,outer CP in primary somatosensory cortex
+pCPs1i,DHBA,inner CP in primary somatosensory cortex
+pCPdm,DHBA,CP in dorsomedial parietal cortex (area 7m)
+pCPdmo,DHBA,outer CP in dorsomedial parietal cortex (area 7m)
+pCPdmi,DHBA,inner CP in dorsomedial parietal cortex (area 7m)
+pCPpd,DHBA,CP in posterosuperior (dorsal) parietal cortex
+pCPpdo,DHBA,outer CP in posterosuperior (dorsal) parietal cortex
+pCPpdi,DHBA,inner CP in posterosuperior (dorsal) parietal cortex
+pCPpv,DHBA,CP in posteroinferior (ventral) parietal cortex
+pCPpvo,DHBA,outer CP in posteroinferior (ventral) parietal cortex
+pCPpvi,DHBA,inner CP in posteroinferior (ventral) parietal cortex
+tCP,DHBA,CP in temporal neocortex
+tCPdl,DHBA,CP in dorsolateral temporal cortex
+tCPa1,DHBA,CP in primary auditory cortex
+tCPa1o,DHBA,outer CP in primary auditory cortex
+tCPa1i,DHBA,inner CP in primary auditory cortex
+tCPsl,DHBA,CP in superolateral temporal cortex
+tCPslo,DHBA,outer CP in superolateral temporal cortex
+tCPsli,DHBA,inner CP in superolateral temporal cortex
+tCPps,DHBA,CP in polysensory temporal cortex
+tCPpi,DHBA,CP in parainsualr temporal cortex
+tCPvl,DHBA,CP in ventrolateral temporal cortex
+tCPml,DHBA,CP in midlateral temporal cortex
+tCPil,DHBA,CP in inferolateral temporal cortex
+tCPilo,DHBA,outer CP in inferolateral temporal cortex
+tCPili,DHBA,inner CP in inferolateral temporal cortex
+tCPmi,DHBA,CP in midinferior temporal cortex
+tCPmio,DHBA,outer CP in midinferior temporal cortex
+tCPmii,DHBA,inner CP in midinferior temporal cortex
+tCP36,DHBA,CP in rostral midinferior temporal cortex (area 36)
+tCP36o,DHBA,outer CP in (rostral) midinferior temporal cortex (area 36)
+tCP36i,DHBA,inner CP in (rostral) midinferior temporal cortex (area 36)
+tCPtf,DHBA,CP in caudal midinferior temporal cortex (area TF)
+tCPtfo,DHBA,outer CP in caudal midinferior temporal cortex (area TF)
+tCPtfi,DHBA,inner CP in caudal midinferior temporal cortex (area TF)
+tCPph,DHBA,CP in posterior parahippocampal cortex
+tCPpho,DHBA,outer CP in posterior parahippocampal cortex
+tCPphi,DHBA,inner CP in posterior parahippocampal cortex
+tCPmt,DHBA,CP in medial temporal-occipital cortex
+tCPmto,DHBA,outer CP in medial temporal-occipital cortex
+tCPmti,DHBA,inner CP in medial temporal-occipital cortex
+tCPlt,DHBA,CP in lateral temporal-occipital cortex
+tCPlto,DHBA,outer CP in lateral temporal-occipital cortex
+tCPlti,DHBA,inner CP in lateral temporal-occipital cortex
+tCPtp,DHBA,CP in temporal polar cortex
+tCPtpo,DHBA,outer CP in temporal polar cortex
+tCPtpi,DHBA,inner CP in temporal polar cortex
+oCP,DHBA,CP in occipital neocortex
+oCPpro,DHBA,CP in area prostriata
+oCPv1,DHBA,CP in primary visual cortex
+oCPv1o,DHBA,outer CP in primary visual cortex
+oCPv1i,DHBA,inner CP in primary visual cortex
+oCPexs,DHBA,CP in extrastriate cortex
+oCPdm,DHBA,CP in dorsomedial extrastriate cortex (V2)
+oCPdmo,DHBA,outer CP in dorsomedial extrastriate cortex
+oCPdmi,DHBA,inner CP in dorsomedial extrastriate cortex
+oCPvm,DHBA,CP in ventromedial extrastriate cortex (VP)
+oCPvmo,DHBA,outer CP in ventromedial extrastriate cortex
+oCPvmi,DHBA,inner CP in ventromedial extrastriate cortex
+oCPml,DHBA,CP in midlateral extrastriate cortex (area 19)
+oCPmlo,DHBA,outer CP in midlateral extrastriate cortex
+oCPmli,DHBA,inner CP in midlateral extrastriate cortex
+iCP,DHBA,CP in insular neocortex
+iCPdg,DHBA,CP in dysgranular insular cortex
+iCPdgo,DHBA,outer CP in dysgranular insular cortex
+iCPdgi,DHBA,inner CP in dysgranular insular cortex
+iCPgr,DHBA,CP in granualr insular cortex
+iCPgro,DHBA,outer CP in granular insular cortex
+iCPgri,DHBA,inner CP in granular insular cortex
+cCP,DHBA,CP in cingulate neocortex
+cCPr,DHBA,CP in rostral cingulate cortex
+cCPro,DHBA,outer CP in rostral cingulate cortex
+cCPri,DHBA,inner CP in rostral cingulate cortex
+cCPmi,DHBA,CP in midcingulate cortex
+cCPmio,DHBA,outer CP in midcingulate cortex
+cCPmii,DHBA,inner CP in midcingulate cortex
+cCPc,DHBA,CP in caudal cingulate cortex
+cCPco,DHBA,outer CP in caudal cingulate cortex
+cCPci,DHBA,inner CP in caudal cingulate cortex
+cCPsg,DHBA,CP in subgenual (subcallosal) cingulate cortex
+cCPsgo,DHBA,outer CP in subgenual (subcallosal) cingulate cortex
+cCPsgi,DHBA,inner CP in subgenual (subcallosal) cingulate cortex
+peCP,DHBA,CP in periallocortex
+CPpc,DHBA,CP in perirhinal cortex
+CPpcr,DHBA,CP in rostral perirhinal cortex
+CPpcro,DHBA,outer CP in rostral perirhinal cortex
+CPpcri,DHBA,inner CP in rostral perirhinal cortex
+CPpcc,DHBA,CP in caudal perirhinal cortex
+CPpcco,DHBA,outer CP in caudal perirhinal cortex
+CPpcci,DHBA,inner CP in caudal perirhinal cortex
+CPpas,DHBA,CP in parasubicular cortex
+CPEC,DHBA,CP in entorhinal cortex
+CPlec,DHBA,CP in lateral (anterior) entorhinal cortex
+CPeo,DHBA,CP in olfactory entorhinal cortex
+CPer,DHBA,CP in rostral entorhinal cortex
+CPmec,DHBA,CP in medial (posterior) entorhinal cortex
+CPec,DHBA,CP in caudal entorhinal cortex
+CPprs,DHBA,CP in presubicular cortex
+CPprsr,DHBA,CP in rostral presubicular cortex
+CPprsc,DHBA,CP in caudal presubicular cortex (postsubiculum)
+CPrs,DHBA,CP in retrosplenial cortex
+CPrso,DHBA,outer CP in retrosplenial cortex
+CPrsi,DHBA,inner CP in retrosplenial cortex
+CPIag,DHBA,CP in agranular insular cortex
+CPIago,DHBA,outer CP in agranular insular cortex
+CPIagi,DHBA,inner CP in agranular insular cortex
+alCP,DHBA,CP in allocortex
+CPhip,DHBA,CP in hippocampal proper
+CPhipr,DHBA,CP in rostral hippocampus
+CPhipc,DHBA,CP in caudal hippocampus
+CPsub,DHBA,CP in subicular cortex
+CPsubr,DHBA,CP in rostral subicular cortex
+CPsubc,DHBA,CP in caudal subicular cortex
+CPpir,DHBA,CP in piriform cortex
+CPiag,DHBA,CP in agranular insular cortex
+SP,DHBA,subplate zone
+fSP,DHBA,SP in frontal neocortex
+fSPfp,DHBA,SP in frontal polar cortex
+fSPdm,DHBA,SP in dorsomedial frontal cortex
+fSPdl,DHBA,SP in dorsolateral prefrontal cortex
+fSPvl,DHBA,SP in ventrolateral prefrontal cortex
+fSPor,DHBA,SP in orbital frontal cortex
+fSPm1,DHBA,SP in posteror frontal cortex (motor cortex)
+pSP,DHBA,SP in parietal neocortex
+pSPs1,DHBA,SP in primary somatosensory cortex
+pSPdm,DHBA,SP in dorsomedial parietal cortex (area 7m)
+pSPpd,DHBA,SP in posterosuperior (dorsal) parietal cortex
+pSPpv,DHBA,SP in posteroinferior (ventral) parietal cortex
+tSP,DHBA,SP in temporal neocortex
+tSPdl,DHBA,SP in dorsolateral temporal cortex
+tSPa1,DHBA,SP in primary auditory cortex
+tSPsl,DHBA,SP in superolateral temporal cortex
+tSPps,DHBA,SP in polysensory temporal cortex
+tSPpi,DHBA,SP in parainsular temporal cortex
+tSPvl,DHBA,SP in ventrolateral temporal cortex
+tSPml,DHBA,SP in midlateral temporal cortex
+tSPil,DHBA,SP in inferolateral temporal cortex
+tSPmi,DHBA,SP in midinferior temporal cortex
+tSP36,DHBA,SP in rostral midinferior temporal cortex (area 36)
+tSPtf,DHBA,SP in caudal midinferior temporal cortex (area TF)
+tSPph,DHBA,SP in posterior parahippocampal cortex
+tSPmt,DHBA,SP in medial temporal-occipital cortex
+tSPlt,DHBA,SP in lateral temporal-occipital cortex
+tSPtp,DHBA,SP in temporal polar cortex
+oSP,DHBA,SP in occipital neocortex
+oSPpro,DHBA,SP in area prostriata
+oSPv1,DHBA,SP in primary visual cortex
+oSPexs,DHBA,SP in extrastriate cortex
+oSPdm,DHBA,SP in dorsomedial extrastriate cortex (V2)
+oSPvm,DHBA,SP in ventromedial extrastriate cortex (VP)
+oSPml,DHBA,SP in midlateral extrastriate cortex (area 19)
+iSP,DHBA,SP in insular neocortex
+iSPdg,DHBA,SP in dysgranular insular cortex
+iSPgr,DHBA,SP in granular insular cortex
+cSP,DHBA,SP in cingulate neocortex
+cSPr,DHBA,SP in rostral cingulate cortex
+cSPmi,DHBA,SP in midcingulate cortex
+cSPc,DHBA,SP in caudal cingulate cortex
+cSPsg,DHBA,SP in subgenual (subcallosal) cingulate cortex
+peSP,DHBA,SP in periallocortex
+SPpc,DHBA,SP in perirhinal cortex
+SPpcr,DHBA,SP in rostral perirhinal cortex
+SPpcc,DHBA,SP in caudal perirhinal cortex
+SPpas,DHBA,SP in parasubicular cortex
+SPec,DHBA,SP in entorhinal cortex
+SPlec,DHBA,SP in lateral (anterior) entorhinal cortex
+SPmec,DHBA,SP in medial (posterior) entorhinal cortex
+SPprs,DHBA,SP in presubicular cortex
+SPprsr,DHBA,SP in rostral presubicular cortex
+SPprsc,DHBA,SP in caudal presubicular cortex (postsubiculum)
+SPrs,DHBA,SP in retrosplenial cortex
+SPIag,DHBA,SP in agranular insular cortex
+alSP,DHBA,SP in allocortex
+SPhip,DHBA,SP in hippocampal proper
+SPhipr,DHBA,SP in rostral hippocampal proper
+SPhipc,DHBA,SP in caudal hippocampal proper
+SPsub,DHBA,SP in subicular cortex
+SPsubr,DHBA,SP in rostral subicular cortex
+SPsubc,DHBA,SP in caudal subicular cortex
+SPpir,DHBA,SP in piriform cortex
+IZ,DHBA,intermediate zone
+fIZ,DHBA,IZ in frontal neocortex
+fIZfp,DHBA,IZ in frontal polar cortex
+fIZdm,DHBA,IZ in dorsomedial frontal cortex
+fIZdl,DHBA,IZ in dorsolateral prefrontal cortex
+fIZvl,DHBA,IZ in ventrolateral prefrontal cortex
+fIZor,DHBA,IZ in orbital frontal cortex
+fIZm1,DHBA,IZ in posteror frontal cortex (motor cortex)
+pIZ,DHBA,IZ in parietal neocortex
+pIZs1,DHBA,IZ in primary somatosensory cortex
+pIZdm,DHBA,IZ in dorsomedial parietal cortex (area 7m)
+pIZpd,DHBA,IZ in posterosuperior (dorsal) parietal cortex
+pIZpv,DHBA,IZ in posteroinferior (ventral) parietal cortex
+tIZ,DHBA,IZ in temporal neocortex
+tIZdl,DHBA,IZ in dorsolateral temporal cortex
+tIZa1,DHBA,IZ in primary auditory cortex
+tIZsl,DHBA,IZ in superolateral temporal cortex
+tIZps,DHBA,IZ in polysensory temporal cortex
+tIZpi,DHBA,IZ in parainsular temporal cortex
+tIZvl,DHBA,IZ in ventrolateral temporal cortex
+tIZml,DHBA,IZ in midlateral temporal cortex
+tIZil,DHBA,IZ in inferolateral temporal cortex
+tIZmi,DHBA,IZ in midinferior temporal cortex
+tIZ36,DHBA,IZ in rostral midinferior temporal cortex (area 36)
+tIZtf,DHBA,IZ in caudal midinferior temporal cortex (area TF)
+tIZph,DHBA,IZ in posterior parahippocampal cortex
+tIZmt,DHBA,IZ in medial temporal-occipital cortex
+tIZlt,DHBA,IZ in lateral temporal-occipital cortex
+tIZtp,DHBA,IZ in temporal polar cortex
+oIZ,DHBA,IZ in occipital neocortex
+oIZpro,DHBA,IZ in area prostriata
+oIZv1,DHBA,IZ in primary visual cortex
+oIZexs,DHBA,IZ in extrastriate cortex
+oIZdm,DHBA,IZ in dorsomedial extrastriate cortex (V2)
+oIZvm,DHBA,IZ in ventromedial extrastriate cortex (VP)
+oIZml,DHBA,IZ in midlateral extrastriate cortex (area 19)
+iIZ,DHBA,IZ in insular neocortex
+iIZdg,DHBA,IZ in dysgranular insular cortex
+iIZgr,DHBA,IZ in granular insular cortex
+cIZ,DHBA,IZ in cingulate neocortex
+cIZr,DHBA,IZ in rostral cingulate cortex
+cIZmi,DHBA,IZ in midcingulate cortex
+cIZc,DHBA,IZ in caudal cingulate cortex
+cIZsg,DHBA,IZ in subgenual (subcallosal) cingulate cortex
+peIZ,DHBA,IZ in periallocortex
+IZpc,DHBA,IZ in perirhinal cortex
+IZpcr,DHBA,IZ in rostral perirhinal cortex
+IZpcc,DHBA,IZ in caudal perirhinal cortex
+IZec,DHBA,IZ in entorhinal cortex
+IZlec,DHBA,IZ in lateral (anterior) entorhinal cortex
+IZmec,DHBA,IZ in medial (posterior) entorhinal cortex
+IZprs,DHBA,IZ in presubicular cortex
+IZprsr,DHBA,IZ in rostral presubicular cortex
+IZprsc,DHBA,IZ in caudal presubicular cortex
+IZrs,DHBA,IZ in retrosplenial cortex
+alIZ,DHBA,IZ in allocortex
+IZhip,DHBA,IZ in hippocampal proper
+IZhipr,DHBA,IZ in rostral hippocampal proper
+IZhipc,DHBA,IZ in caudal hippocampal proper
+IZsub,DHBA,IZ in subicular cortex
+IZsubr,DHBA,IZ in rostral subicular cortex
+IZsubc,DHBA,IZ in caudal subicular cortex
+SZ,DHBA,subventricular zone
+fSZ,DHBA,SZ in frontal neocortex
+fSZfp,DHBA,SZ in frontal polar cortex
+fSZfpo,DHBA,outer SZ in frontal polar cortex
+fSZfpi,DHBA,inner SZ in frontal polar cortex
+fSZdm,DHBA,SZ in dorsomedial frontal cortex
+fSZdmo,DHBA,outer SZ in dorsomedial frontal cortex
+fSZdmop,DHBA,outer plexiform (fiber) zone in dorsomedial frontal cortex
+fSZdmi,DHBA,inner SZ in dorsomedial frontal cortex
+fSZdmip,DHBA,inner plexiform (fiber) zone in dorsomedial frontal cortex
+fSZdl,DHBA,SZ in dorsolateral prefrontal cortex
+fSZdlo,DHBA,outer SZ in dorsolateral prefrontal cortex
+fSZdlop,DHBA,outer plexiform zone in dorsolateral prefrontal cortex
+fSZdli,DHBA,inner SZ in dorsolateral prefrontal cortex
+fSZdlip,DHBA,inner plexiform zone in dorsolateral prefrontal cortex
+fSZvl,DHBA,SZ in ventrolateral prefrontal cortex
+fSZvlo,DHBA,outer SZ in ventrolateral prefrontal cortex
+fSZvlop,DHBA,outer plexiform zone in ventrolateral prefrontal cortex
+fSZvli,DHBA,inner SZ in ventrolateral prefrontal cortex
+fSZvlip,DHBA,inner plexiform zone in ventrolateral prefrontal cortex
+fSZor,DHBA,SZ in orbital frontal cortex
+fSZoro,DHBA,outer SZ in orbital frontal cortex
+fSZorop,DHBA,outer plexiform (fiber) zone in orbital frontal cortex
+fSZori,DHBA,inner SZ in orbital frontal cortex
+fSZorip,DHBA,inner plexiform (fiber) zone in orbital frontal cortex
+fSZm1,DHBA,SZ in posteror frontal cortex (motor cortex)
+fSZm1o,DHBA,outer SZ in posteror frontal cortex (motor cortex)
+fSZm1op,DHBA,outer plexiform (fiber) zone in posteror frontal cortex (motor cortex)
+fSZm1i,DHBA,inner SZ in posteror frontal cortex (motor cortex)
+fSZm1ip,DHBA,inner plexiform (fiber) zone in posteror frontal cortex (motor cortex)
+pSZ,DHBA,SZ in parietal neocortex
+pSZs1,DHBA,SZ in primary somatosensory cortex
+pSZs1o,DHBA,outer SZ in primary somatosensory cortex
+pSZs1op,DHBA,outer plexiform zone in primary somatosensory cortex
+pSZs1i,DHBA,inner SZ in primary somatosensory cortex
+pSZs1ip,DHBA,inner plexiform zone in primary somatosensory cortex
+pSZdm,DHBA,SZ in dorsomedial parietal cortex (area 7m)
+pSZdmo,DHBA,outer SZ in dorsomedial parietal cortex (area 7m)
+pSZdmi,DHBA,inner SZ in dorsomedial parietal cortex (area 7m)
+pSZpd,DHBA,SZ in posterosuperior (dorsal) parietal cortex
+pSZpdo,DHBA,outer SZ in posterosuperior (dorsal) parietal cortex
+pSZpdop,DHBA,outer plexiform zone in posterosuperior (dorsal) parietal cortex
+pSZpdi,DHBA,inner SZ in posterosuperior (dorsal) parietal cortex
+pSZpdip,DHBA,inner plexiform zone in posterosuperior (dorsal) parietal cortex
+pSZpv,DHBA,SZ in posteroinferior (ventral) parietal cortex
+pSZpvo,DHBA,outer SZ in posteroinferior (ventral) parietal cortex
+pSZpvop,DHBA,outer plexiform zone in posteroinferior (ventral) parietal cortex
+pSZpvi,DHBA,inner SZ in posteroinferior (ventral) parietal cortex
+pSZpvip,DHBA,inner plexiform zone in posteroinferior (ventral) parietal cortex
+tSZ,DHBA,SZ in temporal neocortex
+tSZdl,DHBA,SZ in dorsolateral temporal cortex
+tSZa1,DHBA,SZ in primary auditory cortex
+tSZa1o,DHBA,outer SZ in primary auditory cortex
+tSZa1op,DHBA,outer plexiform zone in primary auditory cortex
+tSZa1i,DHBA,inner SZ in primary auditory cortex
+tSZa1ip,DHBA,inner plexiform zone in primary auditory cortex
+tSZsl,DHBA,SZ in superolateral temporal cortex
+tSZslo,DHBA,outer SZ in superolateral temporal cortex
+tSZslop,DHBA,outer plexiform zone in superolateral temporal cortex
+tSZsli,DHBA,inner SZ in superolateral temporal cortex
+tSZslip,DHBA,inner plexiform zone in superolateral temporal cortex
+tSZps,DHBA,SZ in polysensory temporal cortex
+tSZpso,DHBA,outer SZ in polysensory temporal cortex
+tSZpsop,DHBA,outer plexiform zone in polysensory temporal cortex
+tSZpsi,DHBA,inner SZ in polysensory temporal cortex
+tSZpsip,DHBA,inner plexiform zone in polysensory temporal cortex
+tSZpi,DHBA,SZ in parainsular temporal cortex
+tSZpio,DHBA,outer SZ in parainsular temporal cortex
+tSZpiop,DHBA,outer plexiform zone in parainsular temporal cortex
+tSZpii,DHBA,inner SZ in parainsular temporal cortex
+tSZpiip,DHBA,inner plexiform zone in parainsular temporal cortex
+tSZvl,DHBA,SZ in ventrolateral temporal cortex
+tSZml,DHBA,SZ in midlateral temporal cortex
+tSZmlo,DHBA,outer SZ in midlateral temporal cortex
+tSZmlop,DHBA,outer plexiform zone in midlateral temporal cortex
+tSZmli,DHBA,inner SZ in midlateral temporal cortex
+tSZmlip,DHBA,inner plexiform zone in midlateral temporal cortex
+tSZil,DHBA,SZ in inferolateral temporal cortex
+tSZilo,DHBA,outer SZ in inferolateral temporal cortex
+tSZilop,DHBA,outer plexiform zone in inferolateral temporal cortex
+tSZili,DHBA,inner SZ in inferolateral temporal cortex
+tSZilip,DHBA,inner plexiform zone in inferolateral temporal cortex
+tSZmi,DHBA,SZ in midinferior temporal cortex
+tSZ36,DHBA,SZ in rostral midinferior temporal cortex (area 36)
+tSZ36o,DHBA,outer SZ in rostral midinferior temporal cortex (area 36)
+tSZ36op,DHBA,outer plexiform zone in rostral midinferior temporal cortex (area 36)
+tSZ36i,DHBA,inner SZ in rostral midinferior temporal cortex (area 36)
+tSZ36ip,DHBA,inner plexiform zone in rostral midinferior temporal cortex (area 36)
+tSZtf,DHBA,SZ in caudal midinferior temporal cortex (area TF)
+tSZtfo,DHBA,outer SZ in caudal midinferior temporal cortex (area TF)
+tSZtfop,DHBA,outer plexiform zone in caudal midinferior temporal cortex (area TF)
+tSZtfi,DHBA,inner SZ in caudal midinferior temporal cortex (area TF)
+tSZtfip,DHBA,inner plexiform zone in caudal midinferior temporal cortex (area TF)
+tSZph,DHBA,SZ in posterior parahippocampal cortex
+tSZpho,DHBA,outer SZ in posterior parahippocampal cortex
+tSZphop,DHBA,outer plexiform zone in posterior parahippocampal cortex
+tSZphi,DHBA,inner SZ in posterior parahippocampal cortex
+tSZphip,DHBA,inner plexiform zone in posterior parahippocampal cortex
+tSZmt,DHBA,SZ in medial temporal-occipital cortex
+tSZmto,DHBA,outer SZ in medial temporal-occipital cortex
+tSZmtop,DHBA,outer plexiform zone in medial temporal-occipital cortex
+tSZmti,DHBA,inner SZ in medial temporal-occipital cortex
+tSZmtip,DHBA,inner plexiform zone in medial temporal-occipital cortex
+tSZlt,DHBA,SZ in lateral temporal-occipital cortex
+tSZlto,DHBA,outer SZ in lateral temporal-occipital cortex
+tSZltop,DHBA,outer plexiform zone in lateral temporal-occipital cortex
+tSZlti,DHBA,inner SZ in lateral temporal-occipital cortex
+tSZltip,DHBA,inner plexiform zone in lateral temporal-occipital cortex
+tSZtp,DHBA,SZ in temporal polar cortex
+oSZ,DHBA,SZ in occipital neocortex
+oSZpro,DHBA,SZ in area prostriata
+oSZproo,DHBA,outer SZ in area prostriata
+oSZproop,DHBA,outer plexiform zone in area prostriata
+oSZproi,DHBA,inner SZ in area prostriata
+oSZproip,DHBA,inner plexiform zone in area prostriata
+oSZv1,DHBA,SZ in primary visual cortex
+oSZv1o,DHBA,outer SZ in primary visual cortex
+oSZv1op,DHBA,outer plexiform zone in primary visual cortex
+oSZv1i,DHBA,inner SZ in primary visual cortex
+oSZv1ip,DHBA,inner plexiform zone in primary visual cortex
+oSZexs,DHBA,SZ in extrastriate cortex
+oSZdm,DHBA,SZ in dorsomedial extrastriate cortex (V2)
+oSZdmo,DHBA,outer SZ in dorsomedial extrastriate cortex
+oSZdmi,DHBA,inner SZ in dorsomedial extrastriate cortex
+oSZvm,DHBA,SZ in ventromedial extrastriate cortex (VP)
+oSZvmo,DHBA,outer SZ in ventromedial extrastriate cortex
+oSZvmi,DHBA,inner SZ in ventromedial extrastriate cortex
+oSZml,DHBA,SZ in midlateral extrastriate cortex (area 19)
+oSZmlo,DHBA,outer SZ in midlateral extrastriate cortex
+oSZmli,DHBA,inner SZ in midlateral extrastriate cortex
+oSZexso,DHBA,outer SZ in extrastriate cortex
+oSZexsop,DHBA,outer plexiform zone in extrastriate cortex
+oSZexsi,DHBA,inner SZ in extrastriate cortex
+oSZexsip,DHBA,inner plexiform zone in extrastriate cortex
+cSZ,DHBA,SZ in cingulate neocortex
+cSZr,DHBA,SZ in rostral cingulate cortex
+cSZmi,DHBA,SZ in midcingulate cortex
+cSZc,DHBA,SZ in caudal cingulate cortex
+cSZsg,DHBA,SZ in subgenual cingulate cortex
+peSZ,DHBA,SZ in periallocortex
+seSZ,DHBA,SZ in septal region
+VZ,DHBA,ventricular zone
+fVZ,DHBA,VZ in frontal neocortex
+fVZfp,DHBA,VZ in frontal polar cortex
+fVZdm,DHBA,VZ in dorsomedial frontal cortex
+fVZdl,DHBA,VZ in dorsolateral prefrontal cortex
+fVZdlo,DHBA,outer VZ in dorsolateral prefrontal cortex
+fVZdli,DHBA,inner VZ in dorsolateral prefrontal cortex
+fVZvl,DHBA,VZ in ventrolateral prefrontal cortex
+fVZor,DHBA,VZ in orbital frontal cortex
+fVZm1,DHBA,VZ in posteror frontal cortex (motor cortex)
+fVZm1o,DHBA,outer VZ in posteror frontal cortex (motor cortex)
+fVZm1i,DHBA,inner VZ in posteror frontal cortex (motor cortex)
+pVZ,DHBA,VZ in parietal neocortex
+pVZs1,DHBA,VZ in primary somatosensory cortex
+pVZs1o,DHBA,outer VZ in primary somatosensory cortex
+pVZs1i,DHBA,inner VZ in primary somatosensory cortex
+pVZdm,DHBA,VZ in dorsomedial parietal cortex (area 7m)
+pVZpd,DHBA,VZ in posterosuperior (dorsal) parietal cortex
+pVZpv,DHBA,VZ in posteroinferior (ventral) parietal cortex
+pVZpvo,DHBA,outer VZ in posteroinferior (ventral) parietal cortex
+pVZpvi,DHBA,inner VZ in posteroinferior (ventral) parietal cortex
+tVZ,DHBA,VZ in temporal neocortex
+tVZdl,DHBA,VZ in dorsolateral temporal cortex
+tVZa1,DHBA,VZ in primary auditory cortex
+tVZsl,DHBA,VZ in superolateral temporal cortex
+tVZps,DHBA,VZ in polysensory temporal cortex
+tVZpi,DHBA,VZ in parainsular temporal cortex
+tVZvl,DHBA,VZ in ventrolateral temporal cortex
+tVZml,DHBA,VZ in midlateral temporal cortex
+tVZil,DHBA,VZ in inferolateral temporal cortex
+tVZilo,DHBA,outer VZ in inferolateral temporal cortex
+tVZili,DHBA,inner VZ in inferolateral temporal cortex
+tVZmi,DHBA,VZ in midinferior temporal cortex
+tVZ36,DHBA,VZ in rostral midinferior temporal cortex (area 36)
+tVZtf,DHBA,VZ in caudal midinferior temporal cortex (area TF)
+tVZtfo,DHBA,outer VZ in caudal midinferior temporal cortex (area TF)
+tVZtfi,DHBA,inner VZ in caudal midinferior temporal cortex (area TF)
+tVZph,DHBA,VZ in posterior parahippocampal cortex
+tVZpho,DHBA,outer VZ in posterior parahippocampal cortex
+tVZphi,DHBA,inner VZ in posterior parahippocampal cortex
+tVZmt,DHBA,VZ in medial temporal-occipital cortex
+tVZlt,DHBA,VZ in lateral temporal-occipital cortex
+tVZtp,DHBA,VZ in temporal polar cortex
+oVZ,DHBA,VZ in occipital neocortex
+oVZpro,DHBA,VZ in area prostriata
+oVZv1,DHBA,VZ in primary visual cortex
+oVZv1o,DHBA,outer VZ in primary visual cortex
+oVZv1i,DHBA,inner VZ in primary visual cortex
+oVZexs,DHBA,VZ in extrastriate cortex
+oVZdm,DHBA,VZ in dorsomedial extrastriate cortex (V2)
+oVZvm,DHBA,VZ in ventromedial extrastriate cortex (VP)
+oVZml,DHBA,VZ in midlateral extrastriate cortex (area 19)
+cVZ,DHBA,VZ in cingulate neocortex
+cVZr,DHBA,VZ in rostral cingulate neocortex
+cVZmi,DHBA,VZ in midcingulate neocortex
+cVZc,DHBA,VZ in caudal cingulate neocortex
+cVZsg,DHBA,VZ in subgenual cingulate neocortex
+peVZ,DHBA,VZ in periallocortex
+VZpc,DHBA,VZ in perirhinal cortex
+VZpcr,DHBA,VZ in rostral perirhinal cortex
+VZpcc,DHBA,VZ in caudal perirhinal cortex
+VZEC,DHBA,VZ in entorhinal cortex
+VZmec,DHBA,VZ in medial (posterior) entorhinal cortex
+VZec,DHBA,VZ in caudal entorhinal cortex
+VZlec,DHBA,VZ in lateral (anterior) entorhinal cortex
+VZer,DHBA,VZ in rostral entorhinal cortex
+VZprs,DHBA,VZ in presubicular cortex
+VZprsr,DHBA,VZ in rostral presubicular cortex
+VZprsc,DHBA,VZ in caudal presubicular cortex
+VZrs,DHBA,VZ in retrosplenial cortex
+alVZ,DHBA,VZ in allocortex
+VZhip,DHBA,VZ in hippocampal proper
+VZhipr,DHBA,VZ in rostal hippocampal proper
+VZhipc,DHBA,VZ in caudal hippocampal proper
+VZsub,DHBA,VZ in subicular cortex
+VZsubr,DHBA,VZ in rostral subicular cortex
+VZsubc,DHBA,VZ in caudal subicular cortex
+GE,DHBA,Ganglionic eminence (VZ in basal nuclei)
+LGEVZ,DHBA,LGE-VZ border region
+LGE,DHBA,lateral ganglionic eminence
+LGEo,DHBA,outer portion of lateral ganglionic eminence
+LGEi,DHBA,inner portion of lateral ganglionic eminence
+LMGE,DHBA,MGE-Lateral region
+MGE,DHBA,medial ganglionic eminence
+MGEo,DHBA,outer portion of medial ganglionic eminence
+MGEi,DHBA,inner portion of medial ganglionic eminence
+CGE,DHBA,caudal ganglionic eminence
+CGEo,DHBA,outer portion of caudal ganglionic eminence
+CGEi,DHBA,inner portion of caudal ganglionic eminence
+seVZ,DHBA,VZ in septal region
+scVZ,DHBA,VZ in subcallosal region
+paVZ,DHBA,VZ in postamygdaloid region
+thVZ,DHBA,VZ in thalamic region
+hyVZ,DHBA,VZ in hypothalamic portion
+RMS,DHBA,rostral migratory stream
+RMSv,DHBA,vertical portion of rostral migratory stream
+RMSvv,DHBA,VZ part of RMSv
+RMSvg,DHBA,GE part of RMSv
+RMSvs,DHBA,SZ part of RMSv
+RMSh,DHBA,horizontal portion of rostral migratory stream
+RMShv,DHBA,VZ part of RMSh
+RMShg,DHBA,GE part of RMSh
+RMShs,DHBA,SZ part of RMSh
+CalS,DHBA,callosal sling
+DHTC,DHBA,dentatohippocampal transient cell zone
+IPTC,DHBA,interpallidal transient cell zone
+OlfP,DHBA,olfactory peduncle
+PFG,DHBA,perifornical gray zone
+PPL,DHBA,primordial plexiform layer
+ScG,DHBA,subcallosal gray zone
+TCete,DHBA,transient cell zone in external capsule
+TCexc,DHBA,transient cell zone in extreme capsule
+Tel,DHBA,telencephalon
+Cx,DHBA,cerebral cortex
+Cx.L1,collection,layer I of cerebral cortex
+Cx.L2_3aIT,makeshift,Cerebral cortical intratelencephalic pyramidal neurons in layer 2 and layer 3A
+Cx.L3bIT,makeshift,Cerebral cortical intratelencephalic pyramidal neurons in layer 3B
+Cx.L4,collection,layer IV of cerebral cortex
+Cx.L4PY,makeshift,Cerebral cortical pyramidal neuron i n layer 4
+Cx.L4ST,makeshift,Cerebral cortical spiny stellates neuron in layer 4
+Cx.L5,collection,layer V of cerebral cortex
+Cx.L5IT,makeshift,Cerebral cortical intratelencephalic pyramidal neurons in layer 5
+Cx.L5PT,makeshift,"Cerebral cortical pyramidal tract neurons in layer 5;
+extratelencephalic (ET)"
+Cx.L5IN,makeshift,Cerebral cortical inter neurons in layer 5
+Cx.L6,collection,layer VI of cerebral cortex
+Cx.L6IT,makeshift,Cerebral cortical intratelencephalic pyramidal neurons in layer 6
+Cx.L6CT,makeshift,Cerebral cortical corticothalamic pyramidal neurons in layer 6; extra telencephalic (ET)
+Cx.L6CLA,makeshift,Cerebral cortical corticoclaustral pyramidal neurons in layer 6
+Cx.L6IN,makeshift,Cerebral cortical inter neurons in layer 6
+NCx,DHBA,cerebral cortex
+FCx,DHBA,frontal neocortex
+dmPFC,"[Krueger, 2019]","dmPFC, dorsomedial prefrontal cortex"
+dlPFC,collection,the dorsolateral PFC
+PFC,DHBA,prefromtal cortex
+A10,DHBA,frontal polar cortex (area 10)
+A10m,DHBA,medial subdivision of area 10
+A10m1,DHBA,layer I of area 10m
+A10m2,DHBA,layer II of area 10m
+A10m3,DHBA,layer III of area 10m
+A10m4,DHBA,layer IV of area 10m
+A10m5,DHBA,layer V of area 10m
+A10m6,DHBA,layer VI of area 10m
+A10l,DHBA,lateral subdivision of area 10
+A10l1,DHBA,layer I of area 10l
+A10l2,DHBA,layer II of area 10l
+A10l3,DHBA,layer III of area 10l
+A10l4,DHBA,layer IV of area 10l
+A10l5,DHBA,layer V of area 10l
+A10l6,DHBA,layer VI of area 10l
+A10o,DHBA,orbital subdivision of area 10
+A10o1,DHBA,layer I of area 10o
+A10o2,DHBA,layer II of area 10o
+A10o3,DHBA,layer III of area 10o
+A10o4,DHBA,layer IV of area 10o
+A10o5,DHBA,layer V of area 10o
+A10o6,DHBA,layer VI of area 10o
+DFC,DHBA,dorsolateral prefrontal cortex
+A8,DHBA,caudal portion of DFC (area 8)
+A8aD,"[Paxinos, 2012]",A8aD area 8a of cortex dorsal part
+A8aV,"[Paxinos, 2012]",A8aV area 8a of cortex ventral part
+A8C,"[Paxinos, 2012]",A8C area 8 of cortex caudal part
+A8.L5PT,makeshift,"A8, pyramidal tract neurons in layer 8"
+FEF,makeshift,frontal eyes fields
+A8ld,DHBA,laterodorsal subdivision of area 8
+A8ld1,DHBA,layer I of area 8ld
+A8ld2,DHBA,layer II of area 8ld
+A8ld3,DHBA,layer III of area 8ld
+A8ld4,DHBA,layer IV of area 8ld
+A8ld5,DHBA,layer V of area 8ld
+A8ld6,DHBA,layer VI of area 8ld
+A8lv,DHBA,lateroventral subdivision of area 8
+A8lv1,DHBA,layer I of area 8lv
+A8lv2,DHBA,layer II of area 8lv
+A8lv3,DHBA,layer III of area 8lv
+A8lv4,DHBA,layer IV of area 8lv
+A8lv5,DHBA,layer V of area 8lv
+A8lv6,DHBA,layer VI of area 8lv
+A8m,DHBA,medial subdivision of area 8
+A8m1,DHBA,layer I of area 8m
+A8m2,DHBA,layer II of area 8m
+A8m3,DHBA,layer III of area 8m
+A8m4,DHBA,layer IV of area 8m
+A8m5,DHBA,layer V of area 8m
+A8m6,DHBA,layer VI of area 8m
+A9,DHBA,rostrodorsal portion of DFC (area 9)
+A9l,DHBA,lateral subdivision of area 9
+A9l1,DHBA,layer I of area 9l
+A9l2,DHBA,layer II of area 9l
+A9l3,DHBA,layer III of area 9l
+A9l4,DHBA,layer IV of area 9l
+A9l5,DHBA,layer V of area 9l
+A9l6,DHBA,layer VI of area 9l
+A9m,DHBA,medial subdivision of area 9
+A9m1,DHBA,layer I of area 9m
+A9m2,DHBA,layer II of area 9m
+A9m3,DHBA,layer III of area 9m
+A9m4,DHBA,layer IV of area 9m
+A9m5,DHBA,layer V of area 9m
+A9m6,DHBA,layer VI of area 9m
+A9/46,DHBA,intermediate portion of DFC (area 9/46)
+A9/46d,DHBA,dorsal subdivision of A9/46
+A9/46d1,DHBA,layer I of area 9/46d
+A9/46d2,DHBA,layer II of area 9/46d
+A9/46d3,DHBA,layer III of area 9/46d
+A9/46d4,DHBA,layer IV of area 9/46d
+A9/46d5,DHBA,layer V of area 9/46d
+A9/46d6,DHBA,layer VI of area 9/46d
+A9/46v,DHBA,ventral subdivision of A9/46
+A9/46v1,DHBA,layer I of area 9/46v
+A9/46v2,DHBA,layer II of area 9/46v
+A9/46v3,DHBA,layer III of area 9/46v
+A9/46v4,DHBA,layer IV of area 9/46v
+A9/46v5,DHBA,layer V of area 9/46v
+A9/46v6,DHBA,layer VI of area 9/46v
+A46,DHBA,rostroventral portion of DFC (area 46)
+A46d,DHBA,dorsal subdivision of area 46
+A46d1,DHBA,layer I of area 46d
+A46d2,DHBA,layer II of area 46d
+A46d3,DHBA,layer III of area 46d
+A46d4,DHBA,layer IV of area 46d
+A46d5,DHBA,layer V of area 46d
+A46d6,DHBA,layer VI of area 46d
+A46v,DHBA,ventral subdivision of area 46
+A46v1,DHBA,layer I of area 46v
+A46v2,DHBA,layer II of area 46v
+A46v3,DHBA,layer III of area 46v
+A46v4,DHBA,layer IV of area 46v
+A46v5,DHBA,layer V of area 46v
+A46v6,DHBA,layer VI of area 46v
+VFC,DHBA,"vlPFC, ventrolateral prefrontal cortex"
+A44,DHBA,caudal portion of VFC (area 44)
+A44d,DHBA,dorsal subdivision of area 44
+A44d1,DHBA,layer I of area 44d
+A44d2,DHBA,layer II of area 44d
+A44d3,DHBA,layer III of area 44d
+A44d4,DHBA,layer IV of area 44d
+A44d5,DHBA,layer V of area 44d
+A44d6,DHBA,layer VI of area 44d
+A44v,DHBA,ventral subdivision of area 44
+A44v1,DHBA,layer I of area 44v
+A44v2,DHBA,layer II of area 44v
+A44v3,DHBA,layer III of area 44v
+A44v4,DHBA,layer IV of area 44v
+A44v5,DHBA,layer V of area 44v
+A44v6,DHBA,layer VI of area 44v
+A44op,DHBA,opercular subdivision of area 44
+A44op1,DHBA,layer I of area 44op
+A44op2,DHBA,layer II of area 44op
+A44op3,DHBA,layer III of area 44op
+A44op4,DHBA,layer IV of area 44op
+A44op5,DHBA,layer V of area 44op
+A44op6,DHBA,layer VI of area 44op
+A45,DHBA,rostral portion of VFC (area 45)
+A45r,DHBA,rostral subdivision of A45
+A45r1,DHBA,layer I of area 45r
+A45r2,DHBA,layer II of area 45r
+A45r3,DHBA,layer III of area 45r
+A45r4,DHBA,layer IV of area 45r
+A45r5,DHBA,layer V of area 45r
+A45r6,DHBA,layer VI of area 45r
+A45c,DHBA,caudal subdivision of A45
+A45c1,DHBA,layer I of area 45c
+A45c2,DHBA,layer II of area 45c
+A45c3,DHBA,layer III of area 45c
+A45c4,DHBA,layer IV of area 45c
+A45c5,DHBA,layer V of area 45c
+A45c6,DHBA,layer VI of area 45c
+A45op,DHBA,opercular subdivision of A45
+A45op1,DHBA,layer I of area 45op
+A45op2,DHBA,layer II of area 45op
+A45op3,DHBA,layer III of area 45op
+A45op4,DHBA,layer IV of area 45op
+A45op5,DHBA,layer V of area 45op
+A45op6,DHBA,layer VI of area 45op
+OFC,DHBA,orbitofrontal cotex
+OFCm,DHBA,medial orbital frontal cortex (area 14)
+A14r,DHBA,rostral subdivision of area 14
+A14r1,DHBA,layer I of area 14r
+A14r2,DHBA,layer II of area 14r
+A14r3,DHBA,layer III of area 14r
+A14r4,DHBA,layer IV of area 14r
+A14r5,DHBA,layer V of area 14r
+A14r6,DHBA,layer VI of area 14r
+A14c,DHBA,caudal subdivision of area 14
+A14c1,DHBA,layer I of area 14c
+A14c2,DHBA,layer II of area 14c
+A14c3,DHBA,layer III of area 14c
+A14c4,DHBA,layer IV of area 14c
+A14c5,DHBA,layer V of area 14c
+A14c6,DHBA,layer VI of area 14c
+OFCi,DHBA,intermediate orbital frontal cortex
+A11,DHBA,rostral division of OFCi (area 11)
+A11m,DHBA,medial subdivision of area 11
+A11m1,DHBA,layer I of area 11m
+A11m2,DHBA,layer II of area 11m
+A11m3,DHBA,layer III of area 11m
+A11m4,DHBA,layer IV of area 11m
+A11m5,DHBA,layer V of area 11m
+A11m6,DHBA,layer VI of area 11m
+A11l,DHBA,lateral subdivision of area 11
+A11l1,DHBA,layer I of area 11l
+A11l2,DHBA,layer II of area 11l
+A11l3,DHBA,layer III of area 11l
+A11l4,DHBA,layer IV of area 11l
+A11l5,DHBA,layer V of area 11l
+A11l6,DHBA,layer VI of area 11l
+A13,DHBA,caudal division of OFCi (area 13)
+A13m,DHBA,medial subdivision of area 13
+A13m1,DHBA,layer I of area 13m
+A13m2,DHBA,layer II of area 13m
+A13m3,DHBA,layer III of area 13m
+A13m4,DHBA,layer IV of area 13m
+A13m5,DHBA,layer V of area 13m
+A13m6,DHBA,layer VI of area 13m
+A13l,DHBA,lateral subdivision of area 13
+A13l1,DHBA,layer I of area 13l
+A13l2,DHBA,layer II of area 13l
+A13l3,DHBA,layer III of area 13l
+A13l4,DHBA,layer IV of area 13l
+A13l5,DHBA,layer V of area 13l
+A13l6,DHBA,layer VI of area 13l
+OFCl,DHBA,lateral orbital frontal cortex (area 12/47)
+A12/47m,DHBA,medial subdivision of area 12/47
+A12/47m1,DHBA,layer I of area 12/47m
+A12/47m2,DHBA,layer II of area 12/47m
+A12/47m3,DHBA,layer III of area 12/47m
+A12/47m4,DHBA,layer IV of area 12/47m
+A12/47m5,DHBA,layer V of area 12/47m
+A12/47m6,DHBA,layer VI of area 12/47m
+A12/47l,DHBA,lateral subdivision of area 12/47
+A12/47l1,DHBA,layer I of area 12/47l
+A12/47l2,DHBA,layer II of area 12/47l
+A12/47l3,DHBA,layer III of area 12/47l
+A12/47l4,DHBA,layer IV of area 12/47l
+A12/47l5,DHBA,layer V of area 12/47l
+A12/47l6,DHBA,layer VI of area 12/47l
+PoFC,DHBA,posterior frontal cortex (motor cortex)
+PoFC.L5,makeshift,"motor cortex, layer 5"
+M1C,DHBA,"primary motor cortex (area M1, area 4)"
+M1hf,DHBA,head and face region of M1
+M1hf1,DHBA,layer I of area M1hf
+M1hf2,DHBA,layer II of area M1hf
+M1hf3,DHBA,layer III of area M1hf
+M1hf5,DHBA,layer V of area M1hf
+M1hf6,DHBA,layer VI of area M1hf
+M1ul,DHBA,upper limb region of M1
+M1ul1,DHBA,layer I of area M1ul
+M1ul2,DHBA,layer II of area M1ul
+M1ul3,DHBA,layer III of area M1ul
+M1ul5,DHBA,layer V of area M1ul
+M1ul6,DHBA,layer VI of area M1ul
+M1tr,DHBA,trunk region of M1
+M1tr1,DHBA,layer I of area M1tr
+M1tr2,DHBA,layer II of area M1tr
+M1tr3,DHBA,layer III of area M1tr
+M1tr5,DHBA,layer V of area M1tr
+M1tr6,DHBA,layer VI of area M1tr
+M1lm,DHBA,lower limb region of M1
+M1lm1,DHBA,layer I of area M1lm
+M1lm2,DHBA,layer II of area M1lm
+M1lm3,DHBA,layer III of area M1lm
+M1lm5,DHBA,layer V of area M1lm
+M1lm6,DHBA,layer VI of area M1lm
+PMC,DHBA,premotor cortex (area 6)
+A6ld,DHBA,laterodorsal subdivision of area 6
+A6ld1,DHBA,layer I of area 6ld
+A6ld2,DHBA,layer II of area 6ld
+A6ld3,DHBA,layer III of area 6ld
+A6ld5,DHBA,layer V of area 6ld
+A6ld6,DHBA,layer VI of area 6ld
+A6lv,DHBA,lateroventral subdivision of area 6
+A6lv1,DHBA,layer I of area 6lv
+A6lv2,DHBA,layer II of area 6lv
+A6lv3,DHBA,layer III of area 6lv
+A6lv5,DHBA,layer V of area 6lv
+A6lv6,DHBA,layer VI of area 6lv
+A6m,DHBA,medial subdivision of area 6 (area MII)
+A6m1,DHBA,layer I of area 6m
+A6m2,DHBA,layer II of area 6m
+A6m3,DHBA,layer III of area 6m
+A6m5,DHBA,layer V of area 6m
+A6m6,DHBA,layer VI of area 6m
+A6/32,DHBA,area 6/32
+A6/32-1,DHBA,layer I of area 6/32
+A6/32-2,DHBA,layer II of area 6/32
+A6/32-3,DHBA,layer III of area 6/32
+A6/32-4,DHBA,layer IV of area 6/32
+A6/32-5,DHBA,layer V of area 6/32
+A6/32-6,DHBA,layer VI of area 6/32
+M1C-S1C,DHBA,primary motor-sensory cortex (samples)
+PCx,DHBA,parietal neocortex
+S1C,DHBA,"primary somatosensory cortex (area S1, area 3,1,2)"
+S1hf,DHBA,head and face region of S1
+S1hf1,DHBA,layer I of area S1hf
+S1hf2,DHBA,layer II of area S1hf
+S1hf3,DHBA,layer III of area S1hf
+S1hf4,DHBA,layer IV of area S1hf
+S1hf5,DHBA,layer V of area S1hf
+S1hf6,DHBA,layer VI of area S1hf
+S1ul,DHBA,upper limb region of S1
+S1ul1,DHBA,layer I of area S1ul
+S1ul2,DHBA,layer II of area S1ul
+S1ul3,DHBA,layer III of area S1ul
+S1ul4,DHBA,layer IV of area S1ul
+S1ul5,DHBA,layer V of area S1ul
+S1ul6,DHBA,layer VI of area S1ul
+S1tr,DHBA,trunk region of S1
+S1tr1,DHBA,layer I of area S1tr
+S1tr2,DHBA,layer II of area S1tr
+S1tr3,DHBA,layer III of area S1tr
+S1tr4,DHBA,layer IV of area S1tr
+S1tr5,DHBA,layer V of area S1tr
+S1tr6,DHBA,layer VI of area S1tr
+S1lm,DHBA,lower limb region of S1
+S1lm1,DHBA,layer I of area S1lm
+S1lm2,DHBA,layer II of area S1lm
+S1lm3,DHBA,layer III of area S1lm
+S1lm4,DHBA,layer IV of area S1lm
+S1lm5,DHBA,layer V of area S1lm
+S1lm6,DHBA,layer VI of area S1lm
+ScC,DHBA,"subcentral cortex (gustatory cortex, area 43)"
+PoPC,DHBA,posterior parietal cortex
+SPC,DHBA,posterodorsal (superior) parietal cortex
+A5,DHBA,rostral division of SPC (area 5)
+A5ci,DHBA,cingulate subdivision of area 5
+A5ci1,DHBA,layer I of area 5ci
+A5ci2,DHBA,layer II of area 5ci
+A5ci3,DHBA,layer III of area 5ci
+A5ci4,DHBA,layer IV of area 5ci
+A5ci5,DHBA,layer V of area 5ci
+A5ci6,DHBA,layer VI of area 5ci
+A5l,DHBA,lateral subdivision of area 5
+A5l1,DHBA,layer I of area 5l
+A5l2,DHBA,layer II of area 5l
+A5l3,DHBA,layer III of area 5l
+A5l4,DHBA,layer IV of area 5l
+A5l5,DHBA,layer V of area 5l
+A5l6,DHBA,layer VI of area 5l
+A5m,DHBA,medial subdivision of area 5
+A5m1,DHBA,layer I of area 5m
+A5m2,DHBA,layer II of area 5m
+A5m3,DHBA,layer III of area 5m
+A5m4,DHBA,layer IV of area 5m
+A5m5,DHBA,layer V of area 5m
+A5m6,DHBA,layer VI of area 5m
+A7,DHBA,rostal deivision of SPC (area 7)
+A7r,DHBA,rostral subdivision of area 7
+A7r1,DHBA,layer I of area 7r
+A7r2,DHBA,layer II of area 7r
+A7r3,DHBA,layer III of area 7r
+A7r4,DHBA,layer IV of area 7r
+A7r5,DHBA,layer V of area 7r
+A7r6,DHBA,layer VI of area 7r
+A7m,DHBA,medial subdivision of area 7
+A7m1,DHBA,layer I of area 7m
+A7m2,DHBA,layer II of area 7m
+A7m3,DHBA,layer III of area 7m
+A7m4,DHBA,layer IV of area 7m
+A7m5,DHBA,layer V of area 7m
+A7m6,DHBA,layer VI of area 7m
+A7c,DHBA,caudal subdivision of area 7
+A7c1,DHBA,layer I of area 7c
+A7c2,DHBA,layer II of area 7c
+A7c3,DHBA,layer III of area 7c
+A7c4,DHBA,layer IV of area 7c
+A7c5,DHBA,layer V of area 7c
+A7c6,DHBA,layer VI of area 7c
+A7pc,DHBA,postcentral subdivision of area 7
+A7pc1,DHBA,layer I of area 7pc
+A7pc2,DHBA,layer II of area 7pc
+A7pc3,DHBA,layer III of area 7pc
+A7pc4,DHBA,layer IV of area 7pc
+A7pc5,DHBA,layer V of area 7pc
+A7pc6,DHBA,layer VI of area 7pc
+A7ip,DHBA,"intraparietal subdivision of area 7, LIP"
+A7ipr,DHBA,"area 7ip, rostral part (A7ipr)"
+A7ipr1,DHBA,layer I of area 7ipr
+A7ipr2,DHBA,layer II of area 7ipr
+A7ipr3,DHBA,layer III of area 7ipr
+A7ipr4,DHBA,layer IV of area 7ipr
+A7ipr5,DHBA,layer V of area 7ipr
+A7ipr6,DHBA,layer VI of area 7ipr
+A7ipc,DHBA,"area 7ip, caudal part (A7ipc)"
+A7ipc1,DHBA,layer I of area 7ipc
+A7ipc2,DHBA,layer II of area 7ipc
+A7ipc3,DHBA,layer III of area 7ipc
+A7ipc4,DHBA,layer IV of area 7ipc
+A7ipc5,DHBA,layer V of area 7ipc
+A7ipc6,DHBA,layer VI of area 7ipc
+IPC,DHBA,posteroventral (inferior) parietal cortex
+A40,DHBA,rostral division of IPC (area 40)
+A40rd,DHBA,rostrodorsal subdivision of area 40
+A40rd1,DHBA,layer I of area 40rd
+A40rd2,DHBA,layer II of area 40rd
+A40rd3,DHBA,layer III of area 40rd
+A40rd4,DHBA,layer IV of area 40rd
+A40rd5,DHBA,layer V of area 40rd
+A40rd6,DHBA,layer VI of area 40rd
+A40rv,DHBA,rostroventral subdivision of area 40
+A40rv1,DHBA,layer I of area 40rv
+A40rv2,DHBA,layer II of area 40rv
+A40rv3,DHBA,layer III of area 40rv
+A40rv4,DHBA,layer IV of area 40rv
+A40rv5,DHBA,layer V of area 40rv
+A40rv6,DHBA,layer VI of area 40rv
+A40in,DHBA,inferior subdivision of area 40
+A40in1,DHBA,layer I of area 40in
+A40in2,DHBA,layer II of area 40in
+A40in3,DHBA,layer III of area 40in
+A40in4,DHBA,layer IV of area 40in
+A40in5,DHBA,layer V of area 40in
+A40in6,DHBA,layer VI of area 40in
+A40.39,DHBA,intermediate division of IPC (area 40/39)
+A40/39r,DHBA,rostral subdivision of area 40/39
+A40/39r1,DHBA,layer I of area 40/39r
+A40/39r2,DHBA,layer II of area 40/39r
+A40/39r3,DHBA,layer III of area 40/39r
+A40/39r4,DHBA,layer IV of area 40/39r
+A40/39r5,DHBA,layer V of area 40/39r
+A40/39r6,DHBA,layer VI of area 40/39r
+A40/39c,DHBA,caudal subdivision of area 40/39
+A40/39c1,DHBA,layer I of area 40/39c
+A40/39c2,DHBA,layer II of area 40/39c
+A40/39c3,DHBA,layer III of area 40/39c
+A40/39c4,DHBA,layer IV of area 40/39c
+A40/39c5,DHBA,layer V of area 40/39c
+A40/39c6,DHBA,layer VI of area 40/39c
+A39,DHBA,caudal division of IPC (area 39)
+A39r,DHBA,rostral subdivision of area 39
+A39r1,DHBA,layer I of area 39r
+A39r2,DHBA,layer II of area 39r
+A39r3,DHBA,layer III of area 39r
+A39r4,DHBA,layer IV of area 39r
+A39r5,DHBA,layer V of area 39r
+A39r6,DHBA,layer VI of area 39r
+A39c,DHBA,caudal subdivision of area 39
+A39c1,DHBA,layer I of area 39c
+A39c2,DHBA,layer II of area 39c
+A39c3,DHBA,layer III of area 39c
+A39c4,DHBA,layer IV of area 39c
+A39c5,DHBA,layer V of area 39c
+A39c6,DHBA,layer VI of area 39c
+RI,DHBA,retroinsular cortex
+TCx,DHBA,Temporal neocortex
+DLTC,DHBA,dorsolateral temporal neocortex
+AuA1,"[Paxinos, 2012]",Caudal core field
+AuAL,"[Paxinos, 2012]",anterolateral belt
+AuCL,"[Paxinos, 2012]",caudolateral belt
+AuCM,"[Paxinos, 2012]",caudomedial belt
+AuML,"[Paxinos, 2012]",middle lateral belt
+AuMM,"[Paxinos, 2012]",middle medial belt
+AuR,"[Paxinos, 2012]",rostral auditory core field
+AuRM,"[Paxinos, 2012]",rostromedial belt
+AuRTL,"[Paxinos, 2012]",rostrotemporal-lateral belt
+AuRTM,"[Paxinos, 2012]",rostrotemporal-medial belt
+A1C,DHBA,primary auditory cortex(core)
+A41,DHBA,"main portion of A1C(area TC, area 41)"
+A41-1,DHBA,layer I of area 41
+A41-2,DHBA,layer II of area 41
+A41-3,DHBA,layer III of area 41
+A41-4,DHBA,layer IV of area 41
+A41-5,DHBA,layer V of area 41
+A41-6,DHBA,layer VI of area 41
+A1Cr,DHBA,rostal portion of A1C; RT; AuRT
+A1Cr1,DHBA,layer I of rostral primary auditory cortex
+A1Cr2,DHBA,layer II of rostral primary auditory cortex
+A1Cr3,DHBA,layer III of rostral primary auditory cortex
+A1Cr4,DHBA,layer IV of rostral primary auditory cortex
+A1Cr5,DHBA,layer V of rostral primary auditory cortex
+A1Cr6,DHBA,layer VI of rostral primary auditory cortex
+A42,DHBA,"secodary auditory cortex (belt, area 42)"
+A42-1,DHBA,layer I of area 42
+A42-2,DHBA,layer II of area 42
+A42-3,DHBA,layer III of area 42
+A42-4,DHBA,layer IV of area 42
+A42-5,DHBA,layer V of area 42
+A42-6,DHBA,layer VI of area 42
+SLTC,DHBA,superolateral temporal cortex
+ASTC,DHBA,"anterior (rostral) superior temporal cortex (area 22r), RTp"
+A22r1,DHBA,layer I of area 22r
+A22r2,DHBA,layer II of area 22r
+A22r3,DHBA,layer III of area 22r
+A22r4,DHBA,layer IV of area 22r
+A22r5,DHBA,layer V of area 22r
+A22r6,DHBA,layer VI of area 22r
+ISTC,DHBA,"intermdiate superior temporal cortex (area 22i), RPB"
+A22i1,DHBA,layer I of area 22i
+A22i2,DHBA,layer II of area 22i
+A22i3,DHBA,layer III of area 22i
+A22i4,DHBA,layer IV of area 22i
+A22i5,DHBA,layer V of area 22i
+A22i6,DHBA,layer VI of area 22i
+STC,DHBA,"posterior (caudal) superior temporal cortex (area 22c), CPB"
+A22c1,DHBA,layer I of area 22c
+A22c2,DHBA,layer II of area 22c
+A22c3,DHBA,layer III of area 22c
+A22c4,DHBA,layer IV of area 22c
+A22c5,DHBA,layer V of area 22c
+A22c6,DHBA,layer VI of area 22c
+PSTC,DHBA,polysensory temporal coretex (area 22p); STS
+A22pr,DHBA,rostral division of 22p (area 22pr)
+A22pr1,DHBA,layer I of area 22pr
+A22pr2,DHBA,layer II of area 22pr
+A22pr3,DHBA,layer III of area 22pr
+A22pr4,DHBA,layer IV of area 22pr
+A22pr5,DHBA,layer V of area 22pr
+A22pr6,DHBA,layer VI of area 22pr
+A22pi,DHBA,intermediate division of 22p (area 22pi)
+A22pi1,DHBA,layer I of area 22pi
+A22pi2,DHBA,layer II of area 22pi
+A22pi3,DHBA,layer III of area 22pi
+A22pi4,DHBA,layer IV of area 22pi
+A22pi5,DHBA,layer V of area 22pi
+A22pi6,DHBA,layer VI of area 22pi
+A22pc,DHBA,caudal division of 22p (area 22pc)
+A22pc1,DHBA,layer I of area 22pc
+A22pc2,DHBA,layer II of area 22pc
+A22pc3,DHBA,layer III of area 22pc
+A22pc4,DHBA,layer IV of area 22pc
+A22pc5,DHBA,layer V of area 22pc
+A22pc6,DHBA,layer VI of area 22pc
+PI,DHBA,parainsular cortex
+PI1,DHBA,layer I of parainsular cortex
+PI2,DHBA,layer II of parainsular cortex
+PI3,DHBA,layer III of parainsular cortex
+PI4,DHBA,layer IV of parainsular cortex
+PI5,DHBA,layer V of parainsular cortex
+PI6,DHBA,layer VI of parainsular cortex
+VLTC,DHBA,ventrolateral temporal neocortex
+MTC,DHBA,"midlateral temporal cortex (area TEd, area 21)"
+A21r,DHBA,rostral subdivision of area 21
+A21r1,DHBA,layer I of area 21r
+A21r2,DHBA,layer II of area 21r
+A21r3,DHBA,layer III of area 21r
+A21r4,DHBA,layer IV of area 21r
+A21r5,DHBA,layer V of area 21r
+A21r6,DHBA,layer VI of area 21r
+A21i,DHBA,intermediate subdivision of area 21
+A21i1,DHBA,layer I of area 21i
+A21i2,DHBA,layer II of area 21i
+A21i3,DHBA,layer III of area 21i
+A21i4,DHBA,layer IV of area 21i
+A21i5,DHBA,layer V of area 21i
+A21i6,DHBA,layer VI of area 21i
+A21c,DHBA,caudal subdivision of area 21
+A21c1,DHBA,layer I of area 21c
+A21c2,DHBA,layer II of area 21c
+A21c3,DHBA,layer III of area 21c
+A21c4,DHBA,layer IV of area 21c
+A21c5,DHBA,layer V of area 21c
+A21c6,DHBA,layer VI of area 21c
+ITC,DHBA,"inferior temporal cortex (area TEv, area 20)"
+A20r,DHBA,rostral subdivision of area 20
+A20r1,DHBA,layer I of area 20r
+A20r2,DHBA,layer II of area 20r
+A20r3,DHBA,layer III of area 20r
+A20r4,DHBA,layer IV of area 20r
+A20r5,DHBA,layer V of area 20r
+A20r6,DHBA,layer VI of area 20r
+A20i,DHBA,intermediate subdivision of area 20
+A20i1,DHBA,layer I of area 20i
+A20i2,DHBA,layer II of area 20i
+A20i3,DHBA,layer III of area 20i
+A20i4,DHBA,layer IV of area 20i
+A20i5,DHBA,layer V of area 20i
+A20i6,DHBA,layer VI of area 20i
+A20c,DHBA,caudal subdivision of area 20
+A20c1,DHBA,layer I of area 20c
+A20c2,DHBA,layer II of area 20c
+A20c3,DHBA,layer III of area 20c
+A20c4,DHBA,layer IV of area 20c
+A20c5,DHBA,layer V of area 20c
+A20c6,DHBA,layer VI of area 20c
+MITC,DHBA,midinferior (fusiform) temporal cortex
+A36,DHBA,rostral division of MITC (area 36)
+A36r,DHBA,rostral subdivision of area 36
+A36r1,DHBA,layer I of area 36r
+A36r2,DHBA,layer II of area 36r
+A36r3,DHBA,layer III of area 36r
+A36r4,DHBA,layer IV of area 36r
+A36r5,DHBA,layer V of area 36r
+A36r6,DHBA,layer VI of area 36r
+A36c,DHBA,caudal subdivision of area 36
+A36c1,DHBA,layer I of area 36c
+A36c2,DHBA,layer II of area 36c
+A36c3,DHBA,layer III of area 36c
+A36c4,DHBA,layer IV of area 36c
+A36c5,DHBA,layer V of area 36c
+A36c6,DHBA,layer VI of area 36c
+TF,DHBA,caudal division of MITC (area TF)
+TF1,DHBA,layer I of area TF
+TF2,DHBA,layer II of area TF
+TF3,DHBA,layer III of area TF
+TF4,DHBA,layer IV of area TF
+TF5,DHBA,layer V of area TF
+TF6,DHBA,layer VI of area TF
+PPHC,DHBA,posterior parahippocampal cortex
+VISpor_uc1,makeshift,"postrhinal cortex, uniform circuit 1"
+VISpor_uc2,makeshift,"postrhinal cortex, uniform circuit 2"
+VISpor,MBA,postrhinal area
+TH,DHBA,medial division of PPHC (area TH)
+TH1,DHBA,layer I of area TH
+TH2,DHBA,layer II of area TH
+TH3,DHBA,layer III of area TH
+TH5,DHBA,layer V of area TH
+TH6,DHBA,layer VI of area TH
+TL,DHBA,lateral division of PPHC (area TL)
+TL1,DHBA,layer I of area TL
+TL2,DHBA,layer II of area TL
+TL3,DHBA,layer III of area TL
+TL4,DHBA,layer IV of area TL
+TL5,DHBA,layer V of area TL
+TL6,DHBA,layer VI of area TL
+TFO,DHBA,medial temporal-occipital cortex (area TFO)
+TFO1,DHBA,layer I of area TFO
+TFO2,DHBA,layer II of area TFO
+TFO3,DHBA,layer III of area TFO
+TFO4,DHBA,layer IV of area TFO
+TFO5,DHBA,layer V of area TFO
+TFO6,DHBA,layer VI of area TFO
+A37,DHBA,lateral temporal-occipital cortex (area 37)
+A37-1,DHBA,layer I of area 37
+A37-2,DHBA,layer II of area 37
+A37-3,DHBA,layer III of area 37
+A37-4,DHBA,layer IV of area 37
+A37-5,DHBA,layer V of area 37
+A37-6,DHBA,layer VI of area 37
+A38,DHBA,temporal polar cortex
+A38_o,makeshift,
+A38_pai,makeshift,
+A38_z,makeshift,
+A38-1,DHBA,layer I of area 38
+A38-2,DHBA,layer II of area 38
+A38-3,DHBA,layer III of area 38
+A38-4,DHBA,layer IV of area 38
+A38-5,DHBA,layer V of area 38
+A38-6,DHBA,layer VI of area 38
+V5/MT,DHBA,area V5 (middle temporal area)
+V5/MT1,DHBA,layer I of area V5/MT
+V5/MT2,DHBA,layer II of area V5/MT
+V5/MT3,DHBA,layer III of area V5/MT
+V5/MT4,DHBA,layer IV of area V5/MT
+V5/MT5,DHBA,layer V of area V5/MT
+V5/MT6,DHBA,layer VI of area V5/MT
+LO,DHBA,lateral occipito-temporal area
+LO1,DHBA,layer I of area LO
+LO2,DHBA,layer II of area LO
+LO3,DHBA,layer III of area LO
+LO4,DHBA,layer IV of area LO
+LO5,DHBA,layer V of area LO
+LO6,DHBA,layer VI of area LO
+Ocx,DHBA,occipital neocortex
+Pro,DHBA,area prostriata
+Pro1,DHBA,layer I of area prostriata
+Pro2,DHBA,layer II of area prostriata
+Pro3,DHBA,layer III of area prostriata
+Pro4,DHBA,layer IV of area prostriata
+Pro5,DHBA,layer V of area prostriata
+Pro6,DHBA,layer VI of area prostriata
+V1C,DHBA,"primary visual cortex (striate cortex, area V1/17)"
+V1-1,DHBA,layer I of area 17
+V1-2,DHBA,layer II of area 17
+V1-3,DHBA,layer III of area 17
+V1-4,DHBA,layer IV of area 17
+V1-4A,DHBA,layer IVA of area 17
+V1-4B,DHBA,layer IVB of area 17
+V1-4C,DHBA,layer IVC of area 17
+V1-4Ca,DHBA,layer IVCa of area 17
+V1-4Cb,DHBA,layer IVCb of area 17
+V1-5,DHBA,layer V of area 17
+V1-6,DHBA,layer VI of area 17
+ESOC,DHBA,extrastriate occipital cortex
+Vx,DHBA,area x of visual cortex
+V2,DHBA,"parastriate cortex (area V2, area 18)"
+V2-1,DHBA,layer I of area 18
+V2-2,DHBA,layer II of area 18
+V2-3,DHBA,layer III of area 18
+V2-4,DHBA,layer IV of area 18
+V2-5,DHBA,layer V of area 18
+V2-6,DHBA,layer VI of area 18
+PSC,DHBA,peristriate cortex (area 19)
+V3,DHBA,area V3 of peristriate cortex
+V3-1,DHBA,layer I of area V3
+V3-2,DHBA,layer II of area V3
+V3-3,DHBA,layer III of area V3
+V3-4,DHBA,layer IV of area V3
+V3-5,DHBA,layer V of area V3
+V3-6,DHBA,layer VI of area V3
+VP,DHBA,area VP of peristriate cortex
+VP1,DHBA,layer I of area VP
+VP2,DHBA,layer II of area VP
+VP3,DHBA,layer III of area VP
+VP4,DHBA,layer IV of area VP
+VP5,DHBA,layer V of area VP
+VP6,DHBA,layer VI of area VP
+V3A,DHBA,area V3A of peristriate cortex
+V3A-1,DHBA,layer I of area V3A
+V3A-2,DHBA,layer II of area V3A
+V3A-3,DHBA,layer III of area V3A
+V3A-4,DHBA,layer IV of area V3A
+V3A-5,DHBA,layer V of area V3A
+V3A-6,DHBA,layer VI of area V3A
+V4,DHBA,area V4 of peristriate cortex
+V4-1,DHBA,layer I of area V4
+V4-2,DHBA,layer II of area V4
+V4-3,DHBA,layer III of area V4
+V4-4,DHBA,layer IV of area V4
+V4-5,DHBA,layer V of area V4
+V4-6,DHBA,layer VI of area V4
+V3B,DHBA,area V3B of peristriate cortex
+V3B1,DHBA,layer I of area V3B
+V3B2,DHBA,layer II of area V3B
+V3B3,DHBA,layer III of area V3B
+V3B4,DHBA,layer IV of area V3B
+V3B5,DHBA,layer V of area V3B
+V3B6,DHBA,layer VI of area V3B
+V6,DHBA,area V6 of peristriate cortex
+V6-1,DHBA,layer I of area V6
+V6-2,DHBA,layer II of area V6
+V6-3,DHBA,layer III of area V6
+V6-4,DHBA,layer IV of area V6
+V6-5,DHBA,layer V of area V6
+V6-6,DHBA,layer VI of area V6
+V6A/PO,DHBA,area V6 of peristriate cortex (parieto-occipital area)
+V6A-1,DHBA,layer I of area V6A
+V6A-2,DHBA,layer II of area V6A
+V6A-3,DHBA,layer III of area V6A
+V6A-4,DHBA,layer IV of area V6A
+V6A-5,DHBA,layer V of area V6A
+V6A-6,DHBA,layer VI of area V6A
+V7,DHBA,area V7 of peristriate cortex
+V7-1,DHBA,layer I of area V7
+V7-2,DHBA,layer II of area V7
+V7-3,DHBA,layer III of area V7
+V7-4,DHBA,layer IV of area V7
+V7-5,DHBA,layer V of area V7
+V7-6,DHBA,layer VI of area V7
+ICx,DHBA,insular neocortex
+AI,"[Krueger, 2019]",anterior insula
+Idg,DHBA,dysgranular insular cortex
+RIdg,DHBA,rostral dysgranular insular cortex
+RIdg1,DHBA,layer I of dysgranular insular cortex
+RIdg2,DHBA,layer II of dysgranular insular cortex
+RIdg3,DHBA,layer III of dysgranular insular cortex
+RIdg4,DHBA,layer IV of dysgranular insular cortex
+RIdg5,DHBA,layer V of dysgranular insular cortex
+RIdg6,DHBA,layer VI of dysgranular insular cortex
+CIdg,DHBA,caudal dysgranular insular cortex
+CIdg1,DHBA,layer I of caudal dysgranular insular cortex
+CIdg2,DHBA,layer II of caudal dysgranular insular cortex
+CIdg3,DHBA,layer III of caudal dysgranular insular cortex
+CIdg4,DHBA,layer IV of caudal dysgranular insular cortex
+CIdg5,DHBA,layer V of caudal dysgranular insular cortex
+CIdg6,DHBA,layer VI of caudal dysgranular insular cortex
+Ig,DHBA,"Granular insular cortex, GI"
+RIg,DHBA,rostral granular insular cortex
+RIg1,DHBA,layer I of granular insular cortex
+RIg2,DHBA,layer II of granular insular cortex
+RIg3,DHBA,layer III of granular insular cortex
+RIg4,DHBA,layer IV of granular insular cortex
+RIg5,DHBA,layer V of granular insular cortex
+RIg6,DHBA,layer VI of granular insular cortex
+CIg,DHBA,caudal granular insular cortex
+CIg1,DHBA,layer I of caudal granular insular cortex
+CIg2,DHBA,layer II of caudal granular insular cortex
+CIg3,DHBA,layer III of caudal granular insular cortex
+CIg4,DHBA,layer IV of caudal granular insular cortex
+CIg5,DHBA,layer V of caudal granular insular cortex
+CIg6,DHBA,layer VI of caudal granular insular cortex
+CCx,DHBA,cingulate neocortex
+MFC,DHBA,anterior cingulate cortex
+A24,DHBA,ventral division of MFC (area 24)
+A24-1,DHBA,layer I of area 24
+A24-2,DHBA,layer II of area 24
+A24-3,DHBA,layer III of area 24
+A24-5a,DHBA,layer Va of area 24
+A24-5b,DHBA,layer Vb of area 24
+A24-6,DHBA,layer VI of area 24
+A24a,"[Paxinos, 2012]",area 24a of cortex
+A24b,"[Paxinos, 2012]",A24b area 24b of cortex
+A24c,"[Paxinos, 2012]",A24c area 24c of cortex
+A24d,"[Paxinos, 2012]",A24d area 24d of cortex
+A32,DHBA,"dACC, dorsal anterior cingulate cortex"
+A32.L5PT,makeshift,"dorsorostal division of MFC (area 32), pyramidal tract neurons in layer 5"
+A32V,"[Paxinos, 2012]",area 32 of cortexventral part
+A32p,makeshift,
+A32sg,makeshift,
+A32-1,DHBA,layer I of area 32
+A32-2,DHBA,layer II of area 32
+A32-3,DHBA,layer III of area 32
+A32-4,DHBA,layer IV of area 32
+A32-5,DHBA,layer V of area 32
+A32-6,DHBA,layer VI of area 32
+A25,DHBA,subgenual (subcallosal) division of MFC (area 25)
+A25-1,DHBA,layer I of area 25
+A25-2,DHBA,layer II of area 25
+A25-3,DHBA,layer III of area 25
+A25-5,DHBA,layer V of area 25
+A25-6,DHBA,layer VI of area 25
+MCC,DHBA,midcingulate cortex
+A24mc,DHBA,ventral division of MCC (area 24mc)
+A24mc-1,DHBA,layer I of area 24mc
+A24mc-2,DHBA,layer II of area 24mc
+A24mc-3,DHBA,layer III of area 24mc
+A24mc-5a,DHBA,layer Va of area 24mc
+A24mc-5b,DHBA,layer Vb of area 24mc
+A24mc-6,DHBA,layer VI of area 24mc
+A32mc,DHBA,dorsal division of MCC (area 32mc)
+A32mc-1,DHBA,layer I of area 32mc
+A32mc-2,DHBA,layer II of area 32mc
+A32mc-3,DHBA,layer III of area 32mc
+A32mc-4,DHBA,layer IV of area 32mc
+A32mc-5,DHBA,layer V of area 32mc
+A32mc-6,DHBA,layer VI of area 32mc
+PCC,DHBA,posterior cingulate cortex
+A23,DHBA,ventral division of PCC (area 23)
+A23-1,DHBA,layer I of area 23
+A23-2,DHBA,layer II of area 23
+A23-3,DHBA,layer III of area 23
+A23-4,DHBA,layer IV of area 23
+A23-5,DHBA,layer V of area 23
+A23-6,DHBA,layer VI of area 23
+A31,DHBA,dorsal division of PCC (area 31)
+A31-1,DHBA,layer I of area 31
+A31-2,DHBA,layer II of area 31
+A31-3,DHBA,layer III of area 31
+A31-4,DHBA,layer IV of area 31
+A31-5,DHBA,layer V of area 31
+A31-6,DHBA,layer VI of area 31
+PACx,DHBA,periallocortex
+PArCx,DHBA,periarchicortex
+A35,DHBA,"Perirhinal cortex, PRC"
+A35_uc1,makeshift,"perirhinal cortex, uniform circuit 1"
+A35_uc2,makeshift,"perirhinal cortex, uniform circuit 2"
+A35r,DHBA,rostral subdivision of area 35
+A35r1,DHBA,layer I of area 35r
+A35r2,DHBA,layer II of area 35r
+A35r3,DHBA,layer III of area 35r
+A35r3a,DHBA,layer IIIa of area 35r
+A35r3b,DHBA,layer IIIb of area 35r
+A35r3u,DHBA,layer IIIu of area 35r
+A35r5,DHBA,layer V of area 35r
+A35r6,DHBA,layer VI of area 35r
+A35c,DHBA,caudal subdivision of area 35
+A35c1,DHBA,layer I of area 35c
+A35c2,DHBA,layer II of area 35c
+A35c3,DHBA,layer III of area 35c
+A35c3a,DHBA,layer IIIa of area 35c
+A35c3b,DHBA,layer IIIb of area 35c
+A35c3u,DHBA,layer IIIu of area 35c
+A35c5,DHBA,layer V of area 35c
+A35c6,DHBA,layer VI of area 35c
+EC,DHBA,entorhinal cortex
+LEC,DHBA,lateral entorhinal cortex
+LEC_I,collection,"lateral entorhinal cortex, layer 1"
+LEC_II,collection,"lateral entorhinal cortex, layer 2"
+LEC_III,collection,"lateral entorhinal cortex, layer 3"
+LEC_V,collection,"lateral entorhinal cortex, layer 5"
+LEC_VI,collection,"lateral entorhinal cortex, layer 6"
+LEC_deep,collection,deep layer of lateral entorihinal cortex
+LEC_deep_uc1,makeshift,"deep layer of lateral entorihinal cortex, uniform circuit 1"
+EO,DHBA,olfactory part of entorhinal cortex
+EO1,DHBA,layer I of olfactory entorhinal cortex
+EOs,DHBA,superficial layers of olfactory entorhinal cortex
+EO2,DHBA,layer II of olfactory entorhinal cortex
+EO3,DHBA,layer III of olfactory entorhinal cortex
+EO3a,DHBA,layer IIIa of olfactory entorhinal cortex
+EO3b,DHBA,layer IIIb of olfactory entorhinal cortex
+EOld,DHBA,lamina dissecans of olfactory entorhinal cortex
+EOd,DHBA,deep layers of olfactory entorhinal cortex
+EO5,DHBA,layer V of olfactory entorhinal cortex
+EO6,DHBA,layer VI of olfactory entorhinal cortex
+ER,DHBA,rostral part of entorhinal cortex
+ER1,DHBA,layer I of rostral entorhinal cortex
+ERs,DHBA,superficial layers of rostral entorhinal cortex
+ER2,DHBA,layer II of rostral entorhinal cortex
+ER3,DHBA,layer III of rostral entorhinal cortex
+ER3a,DHBA,layer IIIa of rostral entorhinal cortex
+ER3b,DHBA,layer IIIb of rostral entorhinal cortex
+ERld,DHBA,lamina dissecans of rostral entorhinal cortex
+ERd,DHBA,deep layers of rostral entorhinal cortex
+ER5,DHBA,layer V of rostral entorhinal cortex
+ER6,DHBA,layer VI of rostral entorhinal cortex
+ELR,DHBA,laterorostral part of entorhinal cortex
+ELR1,DHBA,layer I of laterorostral entorhinal cortex
+ELRs,DHBA,superficial layers of laterorostral entorhinal cortex
+ELR2,DHBA,layer II of laterorostral entorhinal cortex
+ELR3,DHBA,layer III of laterorostral entorhinal cortex
+ELR3a,DHBA,layer IIIa of laterorostral entorhinal cortex
+ELR3b,DHBA,layer IIIb of laterorostral entorhinal cortex
+ELRld,DHBA,lamina dissecans of laterorostral entorhinal cortex
+ELRd,DHBA,deep layers of laterorostral entorhinal cortex
+ELR5,DHBA,layer V of laterorostral entorhinal cortex
+ELR6,DHBA,layer VI of laterorostral entorhinal cortex
+EMI,DHBA,medial intermediate part of entorhinal cortex
+EMI1,DHBA,layer I of medial intermediate entorhinal cortex
+EMIs,DHBA,superficial layers of medial intermediate entorhinal cortex
+EMI2,DHBA,layer II of medial intermediate entorhinal cortex
+EMI3,DHBA,layer III of medial intermediate entorhinal cortex
+EMI3a,DHBA,layer IIIa of medial intermediate entorhinal cortex
+EMI3b,DHBA,layer IIIb of medial intermediate entorhinal cortex
+EMIld,DHBA,lamina dissecans of medial intermediate entorhinal cortex
+EMId,DHBA,deep layers of medial intermediate entorhinal cortex
+EMI5,DHBA,layer V of medial intermediate entorhinal cortex
+EMI6,DHBA,layer VI of medial intermediate entorhinal cortex
+MEC,DHBA,medial entorhinal cortex
+MEC_I,collection,"medial entorhinal cortex, layer 1"
+MEC_deep,collection,deep layer of medial entorihinal cortex
+MEC_II,collection,"medial entorhinal cortex, layer 2"
+MEC_III,collection,"medial entorhinal cortex, layer 3"
+MEC_V,collection,"medial entorhinal cortex, layer 5"
+MEC_VI,collection,"medial entorhinal cortex, layer 6"
+ELI,DHBA,lateral intermediate part of entorhinal cortex
+ELI1,DHBA,layer I of lateral intermediate entorhinal cortex
+ELIs,DHBA,superficial layers of lateral intermediate entorhinal cortex
+ELI2,DHBA,layer II of lateral intermediate entorhinal cortex
+ELI3,DHBA,layer III of lateral intermediate entorhinal cortex
+ELI3a,DHBA,layer IIIa of lateral intermediate entorhinal cortex
+ELI3b,DHBA,layer IIIb of lateral intermediate entorhinal cortex
+ELIld,DHBA,lamina dissecans of lateral intermediate entorhinal cortex
+ELId,DHBA,deep layers of lateral intermediate entorhinal cortex
+ELI5,DHBA,layer V of lateral intermediate entorhinal cortex
+ELI6,DHBA,layer VI of lateral intermediate entorhinal cortex
+Ec,DHBA,caudal part of entorhinal cortex
+Ec1,DHBA,layer I of caudal entorhinal cortex
+Ecs,DHBA,superficial layers of caudal entorhinal cortex
+Ec2,DHBA,layer II of caudal entorhinal cortex
+Ec3,DHBA,layer III of caudal entorhinal cortex
+Ec3a,DHBA,layer IIIa of caudal entorhinal cortex
+Ec3b,DHBA,layer IIIb of caudal entorhinal cortex
+Ecld,DHBA,lamina dissecans of caudal entorhinal cortex
+Ecd,DHBA,deep layers of caudal entorhinal cortex
+Ec5,DHBA,layer V of caudal entorhinal cortex
+Ec6,DHBA,layer VI of caudal entorhinal cortex
+ECL,DHBA,caudal limiting part of entorhinal cortex
+ECL1,DHBA,layer I of caudal limiting entorhinal cortex
+ECLs,DHBA,superficial layers of caudal limiting entorhinal cortex
+ECL2,DHBA,layer II of caudal limiting entorhinal cortex
+ECL3,DHBA,layer III of caudal limiting entorhinal cortex
+ECL3a,DHBA,layer IIIa of caudal limiting entorhinal cortex
+ECL3b,DHBA,layer IIIb of caudal limiting entorhinal cortex
+ECLld,DHBA,lamina dissecans of caudal limiting entorhinal cortex
+ECLd,DHBA,deep layers of caudal limiting entorhinal cortex
+ECL5,DHBA,layer V of caudal limiting entorhinal cortex
+ECL6,DHBA,layer VI of caudal limiting entorhinal cortex
+ELC,DHBA,laterocaudal part of entorhinal cortex
+ELC1,DHBA,layer I of laterocaudal entorhinal cortex
+ELCs,DHBA,superficial layers of laterocaudal entorhinal cortex
+ELC2,DHBA,layer II of laterocaudal entorhinal cortex
+ELC3,DHBA,layer III of laterocaudal entorhinal cortex
+ELC3a,DHBA,layer IIIa of laterocaudal entorhinal cortex
+ELC3b,DHBA,layer IIIb of laterocaudal entorhinal cortex
+ELCld,DHBA,lamina dissecans of laterocaudal entorhinal cortex
+ELCd,DHBA,deep layers of laterocaudal entorhinal cortex
+ELC5,DHBA,layer V of laterocaudal entorhinal cortex
+ELC6,DHBA,layer VI of laterocaudal entorhinal cortex
+PaS,DHBA,parasubiculum
+PaS_uc1,makeshift,"parasubiculum, uniform circuit 1"
+PaSb,DHBA,proximal parasubiculum
+PaSb1,DHBA,layer I of proximal parasubiculum
+PaSb2-3,DHBA,layers II/III of proximal parasubiculum
+PaSbld,DHBA,lamina dissecans of proximal parasubiculum
+PaSb5-6,DHBA,layers V/VI of proximal parasubiculum
+PaSa,DHBA,distal parasubiculum
+PaSa1,DHBA,layer I of distal parasubiculum
+PaSa2-3,DHBA,layers II/III of distal parasubiculum
+PaSald,DHBA,lamina dissecans of distal parasubiculum
+PaSa5-6,DHBA,layers V/VI of distal parasubiculum
+PrS,DHBA,presubiculum
+PrS_uc1,makeshift,"presubiculum, uniform circuit 1"
+PrSr,DHBA,rostral presubiculum
+PrSr1,DHBA,layer I of rostral presubiculum
+PrSrs,DHBA,superficial layers of rostral presubiculum
+PrSr2,DHBA,layer II of rostral presubiculum
+PrSr3,DHBA,layer III of rostral presubiculum
+PrSrld,DHBA,lamina dissecans of rostral presubiculum
+PrSrd,DHBA,deep layers of rostral presubiculum
+PrSr5,DHBA,layer V of rostral presubiculum
+PrSr6,DHBA,layer VI of rostral presubiculum
+PrSc,DHBA,caudal presubiculum (postsubiculum)
+PrSc1,DHBA,layer I of caudal presubiculum
+PrScs,DHBA,superficial layers of caudal presubiculum
+PrSc2,DHBA,layer II of caudal presubiculum
+PrSc3,DHBA,layer III of caudal presubiculum
+PrScld,DHBA,lamina dissecans of caudal presubiculum
+PrScd,DHBA,deep layers of caudal presubiculum
+PrSc5,DHBA,layer V of caudal presubiculum
+PrSc6,DHBA,layer VI of caudal presubiculum
+RSC,DHBA,retrosphlenial cortex
+RSC_uc1,makeshift,"retrosphlenial cortex, uniform circit 1"
+A29,DHBA,area 29 of retrosplenial cortex
+A29-1,DHBA,layer I of area 29
+A29-2,DHBA,layer II of area 29
+A29-3,DHBA,layer III of area 29
+A29-5-6,DHBA,layers V/VI of area 29
+A30,DHBA,area 30 of retrosplenial cortex
+A30-1,DHBA,layer I of area 30
+A30-2,DHBA,layer II of area 30
+A30-3,DHBA,layer III of area 30
+A30-5,DHBA,layer V of area 30
+A30-6,DHBA,layer VI of area 30
+PPCx,DHBA,peripaleocortex
+Iag,DHBA,agranular insular cortex
+Iag1,DHBA,layer I of area Iag
+Iag2,DHBA,layer II of area Iag
+Iag3,DHBA,layer III of area Iag
+Iag5,DHBA,layer V of area Iag
+Iag6,DHBA,layer VI of area Iag
+FI,DHBA,frontal agranular insular cortex (area FI)
+FI1,DHBA,layer I of area FI
+FI2,DHBA,layer II of area FI
+FI3,DHBA,layer III of area FI
+FI5,DHBA,layer V of area FI
+FI6,DHBA,layer VI of area FI
+TI,DHBA,temporal agranular insular cortex (area TI)
+TI1,DHBA,layer I of area TI
+TI2,DHBA,layer II of area TI
+TI3,DHBA,layer III of area TI
+TI5,DHBA,layer V of area TI
+TI6,DHBA,layer VI of area TI
+ACx,DHBA,allocortex
+ArCx,DHBA,archicortex
+HIP,DHBA,hippocampus
+DG,DHBA,dentate gyrus
+DGU,DHBA,uncal dentate gyrus
+DGUmo,DHBA,molecular layer of uncal dentate gyrus
+DGUgr,DHBA,granular layer of uncal dentate gyrus
+DGUsg,DHBA,subgranular zone of uncal dentate gyrus
+DGUpf,DHBA,polyform layer of uncal dentate gyrus
+DGR,DHBA,rostral dentate gyrus
+DGRmo,DHBA,molecular layer of rostral dentate gyrus
+DGRgr,DHBA,granular layer of rostral dentate gyrus
+DGRsg,DHBA,subgranular zone of rostral dentate gyrus
+DGRpf,DHBA,polyform layer of rostral dentate gyrus
+DGC,DHBA,caudal dentate gyrus
+DGCmo,DHBA,molecular layer of caudal dentate gyrus
+DGCgr,DHBA,granular layer of caudal dentate gyrus
+DGCsg,DHBA,subgranular zone of caudal dentate gyrus
+DGCpf,DHBA,polyform layer of caudal dentate gyrus
+Hipp,DHBA,Hippocampus proper
+CA1,DHBA,"CA1 region of Hipp, CA1 field of the hippocampus"
+CA1_distal,"[Bubb, 2017]","CA1, distal"
+CA1_proximal,"[Bubb, 2017]","CA1, proximal"
+CA1U,DHBA,uncal CA1
+CA1Uslm,DHBA,stratum lacunosum-moleculare of uncal CA1
+CA1Usmo,DHBA,stratum moleculare of uncal CA1
+CA1Usla,DHBA,stratum lacunosum of uncal CA1
+CA1Usr,DHBA,stratum radiatum of uncal CA1
+CA1Usp,DHBA,stratum pyramidale of uncal CA1
+CA1Uso,DHBA,stratum oriens of uncal CA1
+CA1R,DHBA,rostral CA1
+CA1Rslm,DHBA,stratum lacunosum-moleculare of rostral CA1
+CA1Rsmo,DHBA,stratum moleculare of rostral CA1
+CA1Rsla,DHBA,stratum lacunosum of rostral CA1
+CA1Rsr,DHBA,stratum radiatum of rostral CA1
+CA1Rsp,DHBA,stratum pyramidale of rostral CA1
+CA1Rso,DHBA,stratum oriens of rostral CA1
+CA1C,DHBA,caudal CA1
+CA1Cslm,DHBA,stratum lacunosum-moleculare of caudal CA1
+CA1Csmo,DHBA,stratum moleculare of caudal CA1
+CA1Csla,DHBA,stratum lacunosum of caudal CA1
+CA1Csr,DHBA,stratum radiatum of caudal CA1
+CA1Csp,DHBA,stratum pyramidale of caudal CA1
+CA1Cso,DHBA,stratum oriens of caudal CA1
+CA2,DHBA,"CA2 region of Hipp, CA2 field of the hippocampus"
+CA2U,DHBA,uncal CA2
+CA2Uslm,DHBA,stratum lacunosum-moleculare of uncal CA2
+CA2Usmo,DHBA,stratum moleculare of uncal CA2
+CA2Usla,DHBA,stratum lacunosum of uncal CA2
+CA2Usr,DHBA,stratum radiatum of uncal CA2
+CA2Usp,DHBA,stratum pyramidale of uncal CA2
+CA2Uso,DHBA,stratum oriens of uncal CA2
+CA2R,DHBA,rostral CA2
+CA2Rslm,DHBA,stratum lacunosum-moleculare of rostral CA2
+CA2Rsmo,DHBA,stratum moleculare of rostral CA2
+CA2Rsla,DHBA,stratum lacunosum of rostral CA2
+CA2Rsr,DHBA,stratum radiatum of rostral CA2
+CA2Rsp,DHBA,stratum pyramidale of rostral CA2
+CA2Rso,DHBA,stratum oriens of rostral CA2
+CA2C,DHBA,caudal CA2
+CA2Cslm,DHBA,stratum lacunosum-moleculare of caudal CA2
+CA2Csmo,DHBA,stratum moleculare of caudal CA2
+CA2Csla,DHBA,stratum lacunosum of caudal CA2
+CA2Csr,DHBA,stratum radiatum of caudal CA2
+CA2Csp,DHBA,stratum pyramidale of caudal CA2
+CA2Cso,DHBA,stratum oriens of caudal CA2
+CA3,DHBA,cornu Ammonis 3
+CA3U,DHBA,uncal CA3
+CA3Uslm,DHBA,stratum lacunosum-moleculare of uncal CA3
+CA3Usmo,DHBA,stratum moleculare of uncal CA3
+CA3Usla,DHBA,stratum lacunosum of uncal CA3
+CA3Usr,DHBA,stratum radiatum of uncal CA3
+CA3Usl,DHBA,stratum lucidum of uncal CA3
+CA3Usp,DHBA,stratum pyramidale of uncal CA3
+CA3Uso,DHBA,stratum oriens of uncal CA3
+CA3R,DHBA,rostral CA3
+CA3Rslm,DHBA,stratum lacunosum-moleculare of rostral CA3
+CA3Rsmo,DHBA,stratum moleculare of rostral CA3
+CA3Rsla,DHBA,stratum lacunosum of rostral CA3
+CA3Rsr,DHBA,stratum radiatum of rostral CA3
+CA3Rsl,DHBA,stratum lucidum of rostral CA3
+CA3Rsp,DHBA,stratum pyramidale of rostral CA3
+CA3Rso,DHBA,stratum oriens of rostral CA3
+CA3C,DHBA,caudal CA3
+CA3Cslm,DHBA,stratum lacunosum-moleculare of caudal CA3
+CA3Csmo,DHBA,stratum moleculare of caudal CA3
+CA3Csla,DHBA,stratum lacunosum of caudal CA3
+CA3Csr,DHBA,stratum radiatum of caudal CA3
+CA3Csl,DHBA,stratum lucidum of caudal CA3
+CA3Csp,DHBA,stratum pyramidale of caudal CA3
+CA3Cso,DHBA,stratum oriens of caudal CA3
+CA4,DHBA,CA4 region of Hipp
+CA4Upy,DHBA,pyramidal cells of uncal CA4
+CA4Rpy,DHBA,pyramidal cells of rostral CA4
+CA4Cpy,DHBA,pyramidal cells of caudal CA4
+Sub,DHBA,subicular cortex
+S,DHBA,subiculum
+S_distal,"[Bubb, 2017]","Subiculum, distal"
+S_proximal,"[Bubb, 2018]","Subiculum, proximal"
+S-U,DHBA,uncal subiculum
+SUmo,DHBA,molecular layer of uncal subiculum
+SUpy,DHBA,pyramidal layer of uncal subiculum
+SUpm,DHBA,polymorphic layer of uncal subiculum
+S-R,DHBA,rostral subiculum
+SRmo,DHBA,molecular layer of rostral subiculum
+SRpy,DHBA,pyramidal layer of rostral subiculum
+SRpf,DHBA,polymorphic layer of rostral subiculum
+S-C,DHBA,caudal subiculum
+SCmo,DHBA,molecular layer of caudal subiculum
+SCpy,DHBA,pyramidal layer of caudal subiculum
+SCpf,DHBA,polymorphic layer of caudal subiculum
+ProS,DHBA,prosubiculum
+ProU,DHBA,uncal prosubiculum
+ProUmo,DHBA,molecular layer of uncal prosubiculum
+ProUsp,DHBA,stratum pyramidale of uncal prosubiculum
+ProUso,DHBA,stratum oriens of uncal prosubiculum
+ProR,DHBA,rostral prosubiculum
+ProRmo,DHBA,molecular layer of rostral prosubiculum
+ProRsp,DHBA,stratum pyramidale of rostral prosubiculum
+ProRso,DHBA,stratum oriens of rostral prosubiculum
+ProC,DHBA,caudal prosubiculum
+ProCmo,DHBA,molecular layer of caudal prosubiculum
+ProCsp,DHBA,stratum pyramidale of caudal prosubiculum
+ProCso,DHBA,stratum oriens of caudal prosubiculum
+SuS,DHBA,supracallosal subiculum
+SuSm,DHBA,marginal layer of SuS
+SuSp,DHBA,principal layer of SuS
+SuSd,DHBA,deep (subplate) layer of SuS
+IG,DHBA,indusium griseum
+IGm,DHBA,marginal layer of IG
+IGp,DHBA,principal layer of IG
+IGd,DHBA,deep (subplate) layer of IG
+TT,DHBA,taenia tectum
+TTm,DHBA,marginal layer of TT
+TTp,DHBA,principal layer of TT
+TTd,DHBA,deep (subplate) layer of TT
+PalCx,DHBA,paleocortex (semicortex)
+OB,DHBA,Olfactory bulb
+OBonl,DHBA,olfactory nerve layer of olfactory bulb
+OBglo,DHBA,glomerular layer of olfactory bulb
+OBopl,DHBA,outer plexiform layer of olfactory bulb
+OBmcl,DHBA,mitral cell layer of olfactory bulb
+OBipl,DHBA,inner plexiform layer of olfactory bulb
+OBgcl,DHBA,granular cell layer of olfactory bulb
+AON,DHBA,Anterior olfactory nucleus
+NLOT,DHBA,
+OT,DHBA,Olfactory tubercle
+OT1,DHBA,layer I olfactory tubercle
+OT2,DHBA,layer II olfactory tubercle
+OT3,DHBA,layer III olfactory tubercle
+LOA,DHBA,lateral olfactory area
+LOA1,DHBA,layer I of lateral olfactory area
+LOA2,DHBA,layer II of lateral olfactory area
+LOA3,DHBA,layer III of lateral olfactory area
+LOAlc,DHBA,lightly-stained cell islands of lateral olfactory area
+LOAdc,DHBA,darkly-stained cell islands of lateral olfactory area
+Pir,DHBA,"Piriform cortex, PC"
+Pir1,DHBA,layer I of piriform cortex
+Pir2,DHBA,layer II of piriform cortex
+Pir3,DHBA,layer III of piriform cortex
+PEA,DHBA,piriform-entorhinal-amygdaloid area
+PEA1,DHBA,layer I of piriform-entorhinal-amygdaloid area
+PEA2,DHBA,layer II of piriform-entorhinal-amygdaloid area
+PEA3,DHBA,layer III of piriform-entorhinal-amygdaloid area
+CN,DHBA,cerebral nuclei
+AMY,DHBA,amygdaloid complex
+AAA,DHBA,"anterior amygdaloid area
+"
+AAAd,DHBA,dorsal part of AAA
+AAAv,DHBA,ventral part of AAA
+CEN,DHBA,"central nuclear group, CE, CeA"
+CEm,DHBA,medial subdivision of central nucleus
+CEmd,DHBA,dorsal part of CEm
+CEmv,DHBA,ventral part of CEm
+CEl,DHBA,lateral subdivision of central nucleus
+CElap,DHBA,apical part of CEl
+CElca,DHBA,capsular part of CEl
+CElpc,DHBA,paracapsular part of CEl
+CElcn,DHBA,central part of CEl
+CMN,DHBA,corticomedial nuclear group
+Co,DHBA,cortical amygdaloid nuclei
+CoA,DHBA,anterior cortical nuleus
+CoAd,DHBA,dorsal subdivision of CaA
+CoAv,DHBA,ventral subdivsion of CoA
+CoA-m,DHBA,marginal layer of anterior cortical nucleus
+CoP,DHBA,posterior cortical nucleus
+CoPd,DHBA,dorsal subdivision of CaP
+CoPv,DHBA,ventral subdivsion of CoP
+CoP-m,DHBA,marginal layer of posterior cortical nucleus
+Me,DHBA,"medial nucleus, M"
+MeR,DHBA,rostral subdivision of medial nucleus
+MeC,DHBA,caudal subdivision of medial nucleus
+MeCd,DHBA,dorsal part of caudal medial nucleus
+MeCv,DHBA,ventral part of caudal medial nucleus
+Me-m,DHBA,marginal layer of medial amygdaloid nucleus
+AHA,DHBA,amygdalohippocampal area
+AHAmc,DHBA,magnocellular part of amygdalohippocampal area
+AHApc,DHBA,parvocellular part of amygdalohippocampal area
+AHA-m,DHBA,marginal layer of amygdalohippocampal area
+BLN,DHBA,"basolateral nuclear group, BLA"
+La,DHBA,"lateral nucleus, L"
+LaD,DHBA,dorsal division of lateral nucleus
+LaDr,DHBA,dorsal rostral subdivision of lateral nucleus
+LaDl,DHBA,dorsal lateral subdivision of lateral nucleus
+LaCom,DHBA,comb-like part of lateral LaDl
+LaDm,DHBA,dorsal medial subdivision of lateral nucleus
+LaI,DHBA,intermediate division of lateral nucleus
+LaV,DHBA,ventral division of lateral nucleus
+LaVl,DHBA,ventral lateral subdivision of lateral nucleus
+LaVm,DHBA,ventral medial subdivision of lateral nucleus
+LaVglo,DHBA,glomerular subdivision of lateral nucleus
+BL,DHBA,"basolateral nucleus (basal nucleus), B, BA"
+BLD,DHBA,dorsal (magnocellular) division of basolateral nucleus
+BLDl,DHBA,dorsal lateral division of basolateral nucleus
+BLI,DHBA,intermediate division of basolateral nucleus
+BLV,DHBA,ventral (parvicellular) division of basolateral nucleus
+BLVl,DHBA,ventral lateral division of basolateral nucleus
+BLVm,DHBA,ventral medial division of basolateral nucleus
+BM,DHBA,"basomedial nuleus (accessory basal nuleus), AB"
+BMD,DHBA,dorsal division of basomedial nuleus
+BMDl,DHBA,dorsolateral subdivison of basomedial nuleus
+BMDm,DHBA,dorsomedial (magnocellular) subdivision of basomedial nuleus
+BMV,DHBA,ventral division of basomedial nuleus
+BMVl,DHBA,ventrolateral (parvocellular) subdivision of basomedial nuleus
+BMVm,DHBA,ventromedial subdivision of basomedial nuleus
+BMm,DHBA,medial division of basomedial nuleus
+BV,DHBA,basoventral nuleus
+PL,DHBA,paralaminar nucleus
+PLglo,DHBA,glomerular part of paralaminar nucleus
+En,DHBA,endopiriform nulceus
+INA,DHBA,Intercalated nucleus of amygdala (ITC)
+IMG,DHBA,intramedullary gray of the amygdala
+ATA,DHBA,amygdaloid transition areas
+AHTA,DHBA,amygdalohippocampal transition area
+AHTA-m,DHBA,marginal layer of AHTA
+ASTA,DHBA,amygdalostriatal transition area
+ACTA,DHBA,amygdalocortical (corticoamygdaloid) transition area
+ACTA-m,DHBA,marginal layer of ACTA
+SA,DHBA,supra-amygdaloid area
+EXA,DHBA,extended amygdala
+BNST,DHBA,bed nucleus of stria terminalis
+BNSTm,DHBA,medial subdivision of BNST
+BSTmr,DHBA,rostral subdivision of BNSTm
+BSTmc,DHBA,caudal subdivision of BNSTm
+BSTmcl,DHBA,lateral subdivision of BNSTmc
+BSTmm,DHBA,medial subdivision of BNSTmc
+BSTmv,DHBA,ventral subdivision of BNSTm
+BNSTl,DHBA,lateral subdivision of BNST
+BSTlj,DHBA,juxtacapsular subdivision of BNSTl
+BSTld,DHBA,dorsal subdivision of BNSTl
+BSTlv,DHBA,ventral subdivision of BNSTl
+BSTlcn,DHBA,central subdivision of BNSTl
+BSTlcn-s,DHBA,shell of central subdivision of BNSTl
+BSTlc,DHBA,caudal subdivision of BNSTl
+BSTlcm,DHBA,medial subdivision of BNSTlc
+BSTlcd,DHBA,dorsal subdivision of BNSTlc
+BSTlcv,DHBA,ventral subdivision of BNSTlc
+BNSTsc,DHBA,supracapsular division of BNST
+BSTscl,DHBA,lateral column of BNSTsc
+BSTscm,DHBA,medial column of BNSTsc
+BNSTin,DHBA,intercalated nuclei of BNST
+SLEA,DHBA,sublenticular extended amygdala
+SLEAm,DHBA,medial division of sublenticular extended amygdala
+SLEAc,DHBA,central division of sublenticular extended amygdala
+IPAC,DHBA,interstitial nucleus of posterior limb of anterior commissure
+BN,DHBA,basal ganglia
+BN_DP,collection,"direct pathway, in basal ganglia"
+BN_HDP,collection,"hyperdirect pathway, in basal ganglia"
+BN_IDP,collection,"indirect pathway, in basal ganglia"
+STR,DHBA,"Striatum, Caudate-Putamen, Cd-Pu"
+STR_matrix,makeshift,striatum matrix
+STR_patch,makeshift,striatum patch; striosomes
+vSTR,"[Krueger, 2019]","vSTR, ventral striatum"
+Ca,DHBA,caudate nucleus
+CaH,DHBA,head of caudate
+CaHrp,DHBA,rostral pole of caudate head
+CaHdl,DHBA,dorsolateral part of caudate head
+CaHvm,DHBA,ventromedial part of caudate head
+CaB,DHBA,body of caudate
+CaT,DHBA,tail of caudate
+Eca,DHBA,peri-caudate ependymal and subependymal zone
+CaPu,DHBA,caudate-putamen cell bridges
+Pu,DHBA,putamen
+PuR,DHBA,rostral putamen
+PuRv,DHBA,ventral part of rostral putamen
+PuC,DHBA,caudal putamen
+Pld,DHBA,laterodorsal part of putamen
+Pint,DHBA,intermediate part of putamen
+Pmv,DHBA,medioventral part of putamen
+PuPV,DHBA,posteroventral putamen
+PuMG,DHBA,marginal subdivision (cell groups) of putamen
+NAC,DHBA,nucleus accumbens
+NACc,DHBA,core of nucleus accumbens
+NACcl,DHBA,lateral portion of the core
+NACcm,DHBA,medial portion of the core
+NACs,DHBA,shell of nucleus accumbens
+NACsl,DHBA,lateral portion of the shell
+NACsi,DHBA,intermediate portion of the shell
+NACsm,DHBA,medial portion of the shell
+GP,DHBA,globus pallidus
+GPe,DHBA,external segment of globus pallidus
+GPi,DHBA,internal globus pallidus
+GPic,DHBA,central portion of GPi
+GPip,DHBA,peripheral portion of GPi
+EnPN,DHBA,entopeduncular nucleus
+VeP,DHBA,Ventram Pallidum
+Cla,DHBA,"Claustrum, Cl"
+CLd,DHBA,Dorsal claustrum
+CLv,DHBA,ventral claustrum
+CLt,DHBA,temporal claustrum
+BF,DHBA,basal forebrain
+SEP,DHBA,septal nuclei
+MSN,DHBA,Medial septum
+LSN,DHBA,lateral septal nucleus
+LSNd,DHBA,dorsal division of lateral septal nucleus
+LSNi,DHBA,intermediate division of lateral septal nucleus
+LSNv,DHBA,ventral division of lateral septal nucleus
+CSN,DHBA,caudal septal nucleus
+SFi,DHBA,septofimbrial nucleus
+TSN,DHBA,triangular septal nucleus
+SHi,DHBA,septohipocampal nucleus
+Ld,DHBA,lambdoid septal zone
+PLd,DHBA,paralambdoid septal nucleus
+SHy,DHBA,septohypothalamic nucleus
+BNM,DHBA,basal nucleus of Meynert
+BNMl,DHBA,lateral cell groups of basal nucleus
+BNMm,DHBA,medial cell groups of basal nucleus
+NDB,DHBA,Nucleus of the horizontal limb of the diagonal band
+NDBv,DHBA,vertical subdivision of nucleus of diagonal band
+NDBh,DHBA,horizontal subdivision of nucleus of diagonal band
+NSP,DHBA,nucleus subputaminalis
+IsCj,DHBA,"Islands of Calleja, ICa"
+IsCjm,DHBA,major island of Calleja
+IsCjs,DHBA,scattered islands of Calleja
+SI,DHBA,Substantia innominata
+SI-pc,DHBA,lightly-stained parvocellular islands of SI
+SI-nc,DHBA,darkly-stained nanocellular islands of SI
+Die,DHBA,diencephalon
+THM,DHBA,thalamus
+TRN_core,"[Jones, 1998]",Core type relay neuron in thalamus
+TRN_IL,makeshift,intralaminar type neuron in thalamus
+TRN_matrix,"[Jones, 1998]",Matrix type relay neuron in thalamus
+DTH,DHBA,dorsal thalamus
+ANC,DHBA,anterior nuclear complex of thalamus
+AD,DHBA,anterodorsal nucleus of thalamus
+AM,DHBA,anteromedial nucleus of thalamus
+AV,DHBA,anteroventral nucleus of thalamus
+LD,DHBA,lateral dorsal nucleus of thalamus
+MNC,DHBA,medial nuclear complex of thalamus
+MD,DHBA,medio dorsal neucleus of thalamus
+MDd,DHBA,densocelllular (paralamellar) division of MD
+MDm,DHBA,magnocellular (medial) division of MD
+MDmc,DHBA,central part of medial division of MD
+MDam,DHBA,anteromedial large-celled island of MD
+MDl,DHBA,multiform (lateral) division of MD
+MDc,DHBA,parvocellular (central) division of MD
+Re,DHBA,"Reuniens nucleus, RE"
+Pt,DHBA,"Paratenial nucleus, PT"
+LNC,DHBA,lateral nuclear complex of thalamus
+DLN,DHBA,dorsal group of lateral nucleus
+LP,DHBA,lateral posterior neucleus of thalamus
+Pul,DHBA,pulvinar of thalamus
+Pulr,DHBA,anterior nucleus of pulvinar
+Pulm,DHBA,medial nucleus of pulvinar
+Pull,DHBA,lateral nucleus of pulvinar
+Puli,DHBA,inferior nucleus of pulvinar
+Pulil,DHBA,lateral subdivision of Puli
+Pulim,DHBA,medial subdivision of Puli
+VLN,DHBA,ventral group of lateral nucleus
+VA,DHBA,ventral anterior nucleus of thalamus
+VA_core,makeshift,"ventral anterior nucleus of thalamus, core type relay neuron"
+VA_matrix,makeshift,"ventral anterior nucleus of thalamus, matrix type relay neuron"
+VApr,DHBA,parvocellular division of VA
+VAmc,DHBA,magnocellular division of VA
+VL,DHBA,ventral lateral nucleus of thalamus
+VL_core,makeshift,"ventral lateral nucleus of thalamus, core type relay neuron"
+VL_matrix,makeshift,"ventral lateral nucleus of thalamus, matrix type relay neuron"
+VLR,DHBA,rostral division of VL
+VLC,DHBA,caudal division of VL
+VLCd,DHBA,dorsal subdivision of VLC
+VLCv,DHBA,ventral subdivision of VLC
+VLCx,DHBA,medial subdivision of VLC (area x)
+VPT,DHBA,"ventral posteriot nucleus of thalamus, Ventral posterior nucleus, VP"
+VPL,DHBA,ventral posterior lateral nucleus
+VPLr,DHBA,rostral division of ventral posterior lateral nucleus
+VPLc,DHBA,caudal division of ventral posterior lateral nucleus
+VPM,DHBA,ventral posterior medial nucleus
+VPMpc,DHBA,parvocellular division of VPM
+VPI,DHBA,ventral posterior inferior nucleus
+VMb,DHBA,basal ventral medial nucleus
+VM,DHBA,ventral medial nucleus of thalamus
+PoN,DHBA,posterior nuclear complex of thalamus
+LG,DHBA,lateral geniculate nucleus
+DLG,DHBA,dorsal lateral geniculate nucleus
+DLGmc,DHBA,magnocellular layer of DLG
+DLG1,DHBA,layer 1 of DLG
+DLG2,DHBA,layer 2 of DLG
+DLGpc,DHBA,parvicellular layer of DLG
+DLG3,DHBA,layer 3 of DLG
+DLG4,DHBA,layer 4 of DLG
+DLG5,DHBA,layer 5 of DLG
+DLG6,DHBA,layer 6 of DLG
+DLGs,DHBA,S layer of DLG
+DLGk,DHBA,koniocellular layer of DLG
+PG,DHBA,pregeniculate nucleus
+MG,DHBA,medial geniculate neuclei
+DMG,DHBA,dorsal medial geniculate nucleus
+DMGad,DHBA,anterodorsal subdivision of DMG
+DMGpd,DHBA,posterodorsal subdivision of DMG
+VMG,DHBA,ventral medial geniculate nucleus
+MMG,DHBA,"magnocellular (medial) nuleus, Medial geniculate nucleus medial part, MDm"
+LiMG,DHBA,limitans part of medial geniculate nucleus
+Po,DHBA,posterior nucleus of thalamus
+LSG,DHBA,limitans/suprageniculate nucleus
+Lim,DHBA,limtans nucleus
+SGN,DHBA,"Suprageniculate nucleus, SG"
+ILN,DHBA,intralaminar nuclear complex
+AILN,DHBA,anterior group of intralaminar nuclei
+CL,DHBA,central lateral nucleus of the thalamus
+CLm,DHBA,medial division of central lateral nucleus
+CLl,DHBA,lateral division of central lateral nucleus
+CLs,DHBA,dorsal division of central lateral nucleus
+CLc,DHBA,caudal division of central lateral nucleus
+CeM,DHBA,central medial nucleus of thalamus
+PC,DHBA,paracentral nucleus of thalamus
+CD,DHBA,central dorsal nucleus of thalamus
+PILN,DHBA,"posteriar group of intralaminar nuclei, Posterior intralaminar nucleus, PIN"
+CM,DHBA,centromedian nucleus of thalamus
+CMl,DHBA,lateral division of centromedian nucleus of thalamus
+CMm,DHBA,medial division of centromedian nucleus of thalamus
+Pf,DHBA,parafascicular nucleus of thalamus
+Pfl,DHBA,lateral division of parafascicular nucleus of thalamus
+Pfm,DHBA,medial division of parafascicular nucleus of thalamus
+SPf,DHBA,Subparafascicular nucleus
+RPf,DHBA,retroparafascicular area of thalamus
+Fa,DHBA,fasciculosus nucleus of thalamus
+MiN,DHBA,midline nuclear complex
+Rh,DHBA,rhomboid (central) nucleus of thalamus
+PeVA,DHBA,"periventricular area of thalamus, Periventricular nucleus, PeV"
+IAM,DHBA,Interanteromedial nucleus
+IMD,DHBA,"Intermediodorsal nucleus, UMD"
+ETH,DHBA,epithalamus
+HN,DHBA,"Habenular nuclei, Habenula, Hab"
+LHN,DHBA,lateral habenular nucleus
+LHNmc,DHBA,magnocellular division of lateral habenular nucleus
+LHNpc,DHBA,parvicellular division of lateral habenular nucleus
+MHN,DHBA,medial habenular nucleus
+PaV,DHBA,Paraventricular nucleus
+PaVr,DHBA,rostral subdivision of paraventricular nucleus
+PaVc,DHBA,caudal subdivision of paraventricular nucleus
+Pin,DHBA,pineal body
+VTH,DHBA,ventral thalamus
+FF,DHBA,nucleus of the field of Forel
+ZI,DHBA,Zona inserta
+ZId,DHBA,"zona incerta, dorsal division"
+ZIv,DHBA,"zona incerta, ventral division"
+EnP,DHBA,endopeduncular nucleus
+PSTh,DHBA,parasubthalamic nucleus
+R,DHBA,reticular nucleus of thalamus
+Rmc,DHBA,magnocellular division of reticular nucleus
+Rpc,DHBA,parvocellular division of reticular nucleus (perireticular nucleus)
+SubTH,DHBA,subthalamus
+STH,DHBA,subthalamic nucleus
+STHm,DHBA,meial portionof STH
+STHld,DHBA,lateroventral porion of STH
+STHlv,DHBA,laterodorsal portion of STH
+HTH,DHBA,Hypothalamus
+HTHpo,DHBA,"preoptic region of HTH, Preoptic area/nucleus, PO"
+PeVpo,DHBA,"periventricular nucleus, preoptic portion"
+DPe,DHBA,dorsal periventricular nucleus
+AVPe,DHBA,anteroventral periventricular nucleus
+AMPO,DHBA,anteromedial preoptic nucleus
+MPA,DHBA,medial preoptic area
+MPN,DHBA,medial preoptic nucleus
+LPA,DHBA,lateral preoptic area
+IMH,DHBA,intermediate (sexually dimorphic) hypothalamic nuclei
+MnPO,DHBA,median preoptic nucleus
+HTHso,DHBA,"supraoptic region of HTH, Supraoptic nucleus, SO"
+PeVso,DHBA,"periventricular nucleus, supraoptic portion"
+AHN,DHBA,"Anterior hypothalamic area/nucleus, AH"
+AnHA,DHBA,anterior hypothalamic area
+PV,DHBA,paraventricular nucleus of hypothalamus
+PVd,DHBA,descending division of paraventricular nucleus
+PVmc,DHBA,magnocellular division of paraventricular nucleus
+PVpc,DHBA,parvicellular division of paraventricular nucleus
+PVpo,DHBA,posterior division of paraventricular nucleus
+UnN,DHBA,uncinate nucleus
+SCN,DHBA,"suprachiasmatic nucleus, Suprachiasmatic nucleus, SCh"
+SCNd,DHBA,dorsal part of suprachiasmatic nucleus
+SCNc,DHBA,central part of suprachiasmatic nucleus
+RCN,DHBA,"retrochiasmatic nucleus, Retrochiasmatic area, RCh"
+SO,DHBA,supraoptic nucleus
+SOm,DHBA,medial part of supraoptic nucleus
+SOl,DHBA,lateral part of supraoptic nucleus
+LHAa,DHBA,"lateral hypothalamic area, anterior part"
+SuV,DHBA,subventricular nucleus
+SPZ,DHBA,subparaventricular zone
+HTHtub,DHBA,tuberal region of HTH
+PeVtub,DHBA,"periventricular nucleus, tuberal portion"
+JPLH,DHBA,juxtaparaventricular lateral hypothalamic area
+DHA,DHBA,dorsal hypothalamic area
+DMH,DHBA,"dorsomedial hypothalamic nucleus, Dorsomedial nucleus, DM"
+DMHc,DHBA,compact part of dorsomedial hypothalamic nucleus
+DMHd,DHBA,diffuse part of dorsomedial hypothalamic nucleus
+VMH,DHBA,"ventromedial hypothalamic nucleus, Ventromedial nucleus, VM"
+VMHd,DHBA,dorsal part of ventromedial hypothalamic nucleus
+VMHv,DHBA,ventral part of ventromedial hypothalamic nucleus
+VMHc,DHBA,central part of ventromedial hypothalamic nucleus
+PMH,DHBA,"posteromedial hypothalamic nucleus, Posteromedian nucleus, PM"
+Arc,DHBA,arcuate nucleus of hypothalamusNucleus arcuatus
+LT,DHBA,lateral tuberal nuclei
+LHAtub,DHBA,"lateral hypothalamic area, tuberal part"
+LHmc,DHBA,magnocellular nucleus of lateral hypothalamic area
+LHsc,DHBA,accessory secretory cells of lateral hypothalamus
+PalHy,DHBA,pallidohypothalamic area
+NCN,DHBA,nanocellular hypothalamic nucleus
+ME,DHBA,median eminence
+MEE,DHBA,external portion of median eminence
+MEI,DHBA,internal portion of median eminence
+HTHma,DHBA,mammillary region of HTH
+TM,DHBA,"Tuberomamillary nucleus, tM"
+SUM,DHBA,"Supramamillary nucleus, sM"
+MN,DHBA,mammilary neucleus
+MM,DHBA,medial mammillary nucleus
+MMl,DHBA,lateral part of medial mammillary nucleus
+MMm,DHBA,medial part of medial mammillary nucleus
+MMb,DHBA,basal division of medial mammillary nucleus
+LM,DHBA,lateral mammillary nucleus
+PHN,DHBA,"Posterior hypothalamic area/nucleus, PH"
+LHAp,DHBA,"lateral hypothalamic area, posterior part"
+PeF,DHBA,"perifornical nucleus, Perifornical area, pFo"
+PMN,DHBA,"Premamillary nucleus, preM"
+RMA,DHBA,retromammillary area
+Pit,DHBA,pituitary body
+Ret,DHBA,retina
+FWM,DHBA,white matter of forebrain
+FCFT,DHBA,forebrain commissural fiber tracts
+ac,DHBA,anterior commissure
+cc,DHBA,corpus callosum
+ccr,DHBA,rostrum of corpus callosum
+ccg,DHBA,genu of corpus callosum
+ccg-mi,DHBA,forceps minor (frontalis)
+ccb,DHBA,body of corpus callosum
+ccbr,DHBA,"body of cc, rostral portion"
+ccbi,DHBA,"body of cc, intermediate portion"
+ccbc,DHBA,"body of cc, caudal portion"
+ccs,DHBA,splenium of corpus callosum
+ccs-ma,DHBA,forceps major (occipitalis)
+ccs-in,DHBA,forceps inferior
+ccrd,DHBA,radiations of corpus callosum
+tap,DHBA,tapetum of corpus callosum
+hac,DHBA,habenular commissure
+hic,DHBA,hippocampal commissure
+dhic,DHBA,dorsal hippocampal commissure
+vhic,DHBA,ventral hippocampal commissure
+smc,DHBA,supramamillary commissure
+FIFT,DHBA,forebrain ipsilateral fiber tracts
+alv,DHBA,alveus
+amtg,DHBA,amygdalotegmental tract
+ar,DHBA,acoustic radiation
+agb,DHBA,angular bundle
+al,DHBA,ansa lenticularis
+ap,DHBA,ansa peduncularis
+af,DHBA,arcuate fasciculus
+bx,DHBA,bundle X
+cb,DHBA,cingulum bundle
+cb-cx,DHBA,cingulum bundle in cingulate cortex
+cb-tx,DHBA,cingulum bundle in temporal cortex
+comb,DHBA,comb fibers
+cor,DHBA,corona radiata
+cor-a,DHBA,anterior portion of corona radiata
+cor-s,DHBA,superior portion of corona radiata
+cor-p,DHBA,posterior portion of corona radiata
+cbu-sc,DHBA,"corticobulbar tract, supracapsular part"
+cpa,DHBA,corticopallidal tract
+cst,DHBA,corticostriate tract
+dpa,DHBA,dentatopallidal tract
+dib,DHBA,diagonal band
+dlf,DHBA,dorsal longitudinal fasciculus
+dob,DHBA,dorsal occipital bundle
+extC,DHBA,external capsule
+emlgp,DHBA,external medullary lamina of globus pallidus
+emlth,DHBA,external medullary lamina of thalamus
+extrC,DHBA,extreme capsule
+fim,DHBA,fimbria
+fx,DHBA,fornix
+fx-co,DHBA,column of the fornix
+fxc-r,DHBA,"column of the fornix, rostral portion"
+fxc-c,DHBA,"column of the fornix, caudal portion"
+fx-b,DHBA,body of the fornix
+fx-cr,DHBA,crus of the fornix
+hyhp,DHBA,hypothalamo-hypophyseal tract
+ilf,DHBA,inferior longitudinal fasciculus
+ithp,DHBA,inferior thalamic peduncle
+ic,DHBA,internal capsule
+aic,DHBA,anterior limb of internal capsule
+pfpf,DHBA,prefrontopontine fibers
+athf,DHBA,anterior thalamic radiation
+gic,DHBA,genu of internal capsule
+cbu-ic,DHBA,corticobulbar fibers
+cre,DHBA,corticoreticular fibers
+pic,DHBA,posterior limb of internal capsule
+lthp,DHBA,lenticulothalamic portion
+csp,DHBA,corticospinal fibers
+fpn,DHBA,frontopontine fibers
+sthr,DHBA,superior thalamic radiation
+cte,DHBA,corticotectal fibers
+cru,DHBA,corticorubral fibers
+relp,DHBA,retrolenticular portion
+pthr,DHBA,posterior thalamic radiation
+or-rl,DHBA,optic radiation (geniculocalcarine tract)
+ppn,DHBA,parietopontine fibers
+opn,DHBA,occipitopontine fibers
+oco,DHBA,occipitocollicular fibers
+sulp,DHBA,sublenticular portion
+ar-sl,DHBA,auditory radiation
+tepn,DHBA,temporopontine fibers
+imlgp,DHBA,internal medullary lamina of globus pallidus
+imlth,DHBA,internal medullary lamina of thalamus
+lls,DHBA,lateral longitudinal stria
+lf,DHBA,lenticular fasciculus
+mp,DHBA,mammillary peduncle
+mtg,DHBA,mammillotegmental tract
+mtt,DHBA,mammillothalamic tract
+mcht,DHBA,medial corticohypothalamic tract
+mfb,DHBA,medial forebrain bundle
+mls,DHBA,medial longitudinal stria
+or-lp,DHBA,Meyer's loop of optic radiation
+milf,DHBA,middle longitudinal fasciculus
+npa,DHBA,nigropallidal tract
+nst,DHBA,nigrostriate tract
+off,DHBA,occipitofrontal fasciculus
+offi,DHBA,inferior occipitofrontal fasciculus
+offs,DHBA,superior occipitofrontal fasciculus
+olt,DHBA,olfactory tract
+ost,DHBA,olfactory striae
+lost,DHBA,lateral olfactory stria
+most,DHBA,medial olfactory stria
+ox,DHBA,optic chiasm
+on,DHBA,optic nerve
+or,DHBA,optic radiation
+ot,DHBA,optic tract
+opt,DHBA,orbito-polar tract
+pni,DHBA,pallidonigral tract
+ptg,DHBA,paraterminal gyrus
+pth,DHBA,pallidothalamic tract
+perf,DHBA,perforant path
+perp,DHBA,perpendicular fasciculus
+ponb,DHBA,pontine bundle
+rthp,DHBA,rostral thalamic peduncle
+sst,DHBA,sagittal stratum
+sste,DHBA,external sagittal stratum
+ssti,DHBA,internal sagittal stratum
+saf,DHBA,short association fibers
+szt,DHBA,stratum zonale of thalamus
+smt,DHBA,stria medullaris of thalamus
+st,DHBA,stria terminalis
+spa,DHBA,striopallidal tract
+sni,DHBA,strionigral tract
+sth,DHBA,striothalamic tract
+scf,DHBA,subcallosal fasciculus
+sthf,DHBA,subthalamic fasciculus
+sprs,DHBA,superficial presubicular path
+slf,DHBA,superior longitudinal fasciculus
+slf-m,DHBA,"superior longitudinal fasciculus, medial portion"
+slf-i,DHBA,"superior longitudinal fasciculus, intermediate portion"
+slf-l,DHBA,"superior longitudinal fasciculus, lateral portion"
+sox,DHBA,supraoptic dicussation
+tpul,DHBA,temporopulvinar bundle
+thf,DHBA,thalamic fasciculus
+thpa,DHBA,thalamopallidal tract
+thst,DHBA,thalamostriate tract
+tuin,DHBA,tuberoinfundibular path
+unf,DHBA,uncinate fasciculus
+vamy,DHBA,ventral amygdaloid efferent path
+FV,DHBA,ventricles of forebrain
+LV,DHBA,lateral ventricles
+aLV,DHBA,anterior horn of lateral ventricle
+bLV,DHBA,body of lateral ventricle
+xLV,DHBA,atrium of lateral ventricle
+pLV,DHBA,posterior horn of lateral ventricle
+iLV,DHBA,inferior horn of lateral ventricle
+olr,DHBA,olfactory recess
+3V,DHBA,third ventricle
+ifr3V,DHBA,infundubular recess of 3V
+por3V,DHBA,preoptic recess of 3V
+pir3V,DHBA,pineal recess of 3V
+spr3V,DHBA,suprapineal recess of 3V
+mmr3V,DHBA,mammillary recess of 3V
+IVF,DHBA,interventricular foramen
+FSS,DHBA,surface structures of forebrain
+CeS,DHBA,cerebral sulci
+PriS,DHBA,primary sulci
+cas,DHBA,calcarine fissure
+cas-r,DHBA,rostral (common) portion of calcarine fissure
+cas-c,DHBA,caudal portion of calcarine fissure
+cas-cs,DHBA,superior ramus of caudal calcarine fissure
+cas-ci,DHBA,inferior ramus of caudal calcarine fissure
+cals,DHBA,callosal sulcus
+cs,DHBA,central sulcus
+cis,DHBA,cingulate sulcus
+mr,DHBA,marginal ramus of cis
+csr,DHBA,circular sulcus of Reil
+csr-u,DHBA,upper limiting sulcus
+csr-l,DHBA,lower limiting sulcus
+cols,DHBA,collateral sulcus
+cols-r,DHBA,"collateral sulcus, rostral segment"
+cols-c,DHBA,"collateral sulcus, caudal segment"
+hf,DHBA,hippocampal fissure
+ips,DHBA,intraparietal sulcus
+las,DHBA,lateral (sylvian) fissure
+las-r,DHBA,"lateral fissure, rostral ramus"
+las-m,DHBA,"lateral fissure, middle (ascending) ramus"
+las-c,DHBA,"lateral fissure, caudal ramus"
+los,DHBA,longitudinal fissure
+ots,DHBA,occipitotemporal sulcus
+ols,DHBA,olfactory sulcus
+ors,DHBA,orbital sulcus
+ors-m,DHBA,medial orbital sulcus
+ors-l,DHBA,lateral orbital sulcus
+ors-t,DHBA,transverse orbital sulcus
+pos,DHBA,parietooccipital fissure
+pos-le,DHBA,"parietooccipital fissure, lateral extension"
+pocs,DHBA,postcentral sulcus
+prcs,DHBA,precentral sulcus
+sts,DHBA,superior temporal sulcus
+tranf,DHBA,transverse cerebral fissure
+SecS,DHBA,secondary sulci
+aos,DHBA,anterior occipital sulcus
+ascs,DHBA,anterior subcentral sulcus
+csin,DHBA,central sulcus of insula
+ers,DHBA,endorhinal sulcus
+fimd,DHBA,fimbriodentate sulcus
+fms,DHBA,frontomarginal sulcus
+ifs,DHBA,inferior frontal sulcus
+its,DHBA,inferior temporal sulcus
+imfs,DHBA,intermediate frontal sulcus
+ios,DHBA,inferior occipital sulcus
+mffs,DHBA,mid-fusiform sulcus
+mos,DHBA,middle (lateral) occipital sulcus
+mligs,DHBA,mid-lingual sulcus
+lus,DHBA,lunate sulcus
+mfs,DHBA,medial frontal sulcus
+pacs,DHBA,paracentral sulcus
+pacis,DHBA,paracingulate sulcus
+phligs,DHBA,parahippocampo-ligual sulcus
+pols,DHBA,parolfactory sulcus
+pols-r,DHBA,rostral parolfactory sulcus
+pols-c,DHBA,caudal parolfactory sulcus
+prin,DHBA,precentral sulcus of insula
+poin,DHBA,postcentral sulcus of insula
+poscs,DHBA,posteior subcentral sulcus
+rs,DHBA,rhinal sulcus
+ros,DHBA,rostral sulcus
+ros-s,DHBA,superior rostral sulcus
+ros-i,DHBA,inferior rostral sulcus
+ss,DHBA,semiannular sulcus
+sps,DHBA,subparietal (splenial) sulcus
+sfs,DHBA,superior frontal sulcus
+spas,DHBA,superior parietal sulcus
+tps,DHBA,temporopolar sulcus
+tps-m,DHBA,medial temporopolar sulcus
+tps-l,DHBA,lateral temporopolar sulcus
+tts,DHBA,transverse temporal sulcus
+atts,DHBA,anterior transverse temporal sulcus
+ptts,DHBA,posterior transverse temporal sulcus
+ims,DHBA,intermediate transverse temporal sulcus
+tts-le,DHBA,lateral extension of transverse temporal sulcus
+tros,DHBA,transverse occipital sulcus
+us,DHBA,uncal sulcus
+CeG,DHBA,cerebral gyri and lobules
+FroL,DHBA,frontal lobe
+PrCG,DHBA,precentral gyrus
+SFG,DHBA,superior frontal gyrus
+MFG,DHBA,middle frontal gyrus
+IFG,DHBA,inferior frontal gyrus
+IFGtr,DHBA,"inferior frontal gyrus, triangular part"
+IFGop,DHBA,"inferior frontal gyrus, opercular part"
+IFGor,DHBA,"inferior frontal gyrus, orbital part"
+ReG,DHBA,gyrus rectus (straight gyrus)
+MOrG,DHBA,medial orbital gyrus
+AOrG,DHBA,anterior intermediate orbital gyrus
+POrG,DHBA,posterior intermediate orbital gyrus
+LOrG,DHBA,lateral orbital gyrus
+PCLr,DHBA,"paracentral lobule, rostral part"
+PaCG,DHBA,paracingulate gyrus
+FrO,DHBA,frontal operculum
+OrO,DHBA,orbital operculum
+RoG,DHBA,rostral gyrus
+SRoG,DHBA,superior rostral gyrus
+IRoG,DHBA,inferior rostral gyrus
+LOG,DHBA,lateral olfactory gyrus
+FMG,DHBA,frontomarginal gyrus
+FP,DHBA,frontal pole
+ParL,DHBA,parietal lobe
+PoCG,DHBA,postcentral gyrus
+SPL,DHBA,supraparietal lobule
+IPL,DHBA,inferior parietal lobule
+SMG,DHBA,supramarginal gyrus
+FasNO,makeshift,inhibit nucleoolivary nucleus of Fas
+AnG,DHBA,angular gyrus
+PrCun,DHBA,precuneus
+PCLc,DHBA,"paracentral lobule, caudal part"
+PaO,DHBA,parietal operculum
+TemL,DHBA,temporal lobe
+STG,DHBA,superior temporal gyrus
+MTG,DHBA,middle temporal gyrus
+ITG,DHBA,inferior temporal gyrus
+FuGt,DHBA,"occipitotemporal (fusiform) gyrus, temporal part"
+PRG,DHBA,perirhinal gyrus ( rostral part of FuGt)
+TTG,DHBA,transverse temporal gyrus (Heschl's gyrus)
+TTGr,DHBA,rostral (anterior) transverse temporal gyrus
+TTGc,DHBA,caudal (posterior) transverse temporal gyrus
+PLT,DHBA,planum temporale
+TP,DHBA,temporal pole
+PRL,DHBA,perirhinal lobule
+PLP,DHBA,planum polare
+OccL,DHBA,occipital lobe
+OP,DHBA,occipital pole
+OPR,DHBA,occipitoparietal transition region
+OTR,DHBA,occipitotemporal transition region
+Cun,DHBA,cuneus
+LiG,DHBA,lingual gyrus
+FuGo,DHBA,"occipitotemporal (fusiform) gyrus, occipital part"
+IOG,DHBA,inferior occipital gyrus
+SOG,DHBA,superior occipital gyrus
+InL,DHBA,insular lobe
+LIG,DHBA,long insular gyri
+SIG,DHBA,short insular gyri
+LimL,DHBA,limbic lobe
+CgG,DHBA,cingulate gyrus
+CgGr,DHBA,"cingulate gyrus, rostral (anterior) part"
+CgGc,DHBA,"cingulate gyrus, caudal (posterior) part"
+CgGrs,DHBA,"cingulate gyrus, retrospleninal part"
+IsCPH,DHBA,cingulo-parahippocampal isthmus
+SCG,DHBA,subcallosal gyrus (parolfactory gyrus)
+PTG,DHBA,paraterminal gyrus
+PHG,DHBA,parahippocampal gyrus
+APH,DHBA,anterior parahippocampal gyrus
+PPH,DHBA,posterior parahippocampal gyrus
+UN,DHBA,uncus of parahippocampal gyrus
+AG,DHBA,ambiens gyrus
+BG,DHBA,band of Giacomini
+ILG,DHBA,intralimbic gyrus
+SLG,DHBA,semilunar gyrus
+HiF,DHBA,hippocampal gyrus (formation)
+HiH,DHBA,head of hippocampus
+HiD,DHBA,digitations of hippocampus
+HiB,DHBA,body of hippocampus
+HiT,DHBA,tail of hippocampus
+FaG,DHBA,fasciolar gyrus
+Retz,DHBA,Retzius' gyrus
+Subx,DHBA,subicular complex
+PrPir,DHBA,prepiriform region
+APS,DHBA,anterior perforated substance
+HaTr,DHBA,habenular triangle
+InF,DHBA,infundibular stalk
+LI,DHBA,limen insula
+MB,DHBA,mammillary body
+PrN,DHBA,preoccipital notch
+TPUJ,DHBA,temporopolar uncal junction
+TN,DHBA,tentorial notch
+TC,DHBA,Tuber cinereum
+ASFV,DHBA,adjoining structures of forebrain ventricles
+CalA,DHBA,calcar avis
+ChoLV,DHBA,choroid plexus of lateral ventricle
+Cho3V,DHBA,choroid plexus of 3V
+ChoF,DHBA,choroid fissure
+ColE,DHBA,collateral eminence
+ColT,DHBA,collateral trigone
+hyths,DHBA,hypothalamic sulcus
+InTh,DHBA,interthalamic adhesion (massa intermedia)
+LaT,DHBA,lamina terminalis
+OVLT,DHBA,organum vasculosum laminae terminalis
+SFO,DHBA,subfornical organ
+Pell,DHBA,septum pellucidum
+cpell,DHBA,cavum septi pellucidi
+vip,DHBA,velum interpositum
+fbv,DHBA,blood vessels of forebrain
+M,DHBA,midbrain(msencephalon)
+MGM,DHBA,gray matter of midbrain
+PTR,DHBA,pretectal region
+PTN,DHBA,pretectal nuclear complex
+DPT,DHBA,dorsal (posterior/sublentiform) pretectal nucleus
+MPT,DHBA,medial pretectal nucleus
+NOP,DHBA,nucleus of the optic tract (lentiform nucleus)
+OPT,DHBA,olivary pretectal nucleus
+APT,DHBA,anterior (ventral /principal) pretectal nucleus
+APTc,DHBA,"anterior pretectal nucleus, compact division"
+APTr,DHBA,"anterior pretectal nucleus, reticular division"
+AOP,DHBA,accessory nuclei of optic tract; accessory optic system (AOS)
+AOPd,DHBA,"accessory nuclei of optic tract, dorsal nucleus"
+AOPl,DHBA,"accessory nuclei of optic tract, lateral nucleus"
+AOPm,DHBA,"accessory nuclei of optic tract, medial nucleus"
+MTg,DHBA,midbrain tegmentum
+RF,collection,reticular formation
+aRF,makeshift,afferent reticular formation
+eRF,collection,efferent reticular formation
+MEN,DHBA,efferent nuclei of the cranial nerves in the midbrain
+EW,DHBA,Edinger-Westphal nucleus (accessory oculomotor nucleus)
+3N,DHBA,oculomotor nucleus (OMN)
+3N_IO,makeshift,oculomotor nucleus innervating inferior oblique
+3N_IR,makeshift,oculomotor nucleus innervating inferior rectus
+3N_MR,makeshift,oculomotor nucleus innervating medial rectus
+3N_SR,makeshift,oculomotor nucleus innervating superior rectus
+3AM,DHBA,anterior median oculomotor nucleus
+3CC,DHBA,caudal central oculomotor nucleus
+3C,DHBA,central oculomotor nucleus
+3D,DHBA,dorsal oculomotor nucleus
+3M,DHBA,medial oculomotor nucleus
+3Vn,DHBA,ventral oculomotor nucleus
+4N,DHBA,trochlear nucleus
+S4N,DHBA,supratrochlear nucleus
+MAN,DHBA,afferent nuclei of the cranial nerves in midbrain
+Me5,DHBA,mesencephalic trigeminal nucleus
+PAG,DHBA,"periaqueductal gray substance, Periaqueductal grey"
+PAGD,DHBA,"periaqueductal gray substance, dorsolateral portion"
+PAGdm,DHBA,"periaqueductal gray substance,dorsomedial division"
+PAGdl,DHBA,"periaqueductal gray substance, dorsolateral division"
+PAGl,DHBA,"periaqueductal gray substance, lateral division"
+PAGvl,DHBA,"periaqueductal gray substance, ventrolateral division"
+PAGpl,DHBA,"periaqueductal gray substance, pleioglial division"
+PAGV,DHBA,"periaqueductal gray substance, ventral portion"
+DRc,DHBA,cap of dorsal raphe nucleus
+Dk,DHBA,nucleus of Darkschewitsch
+PC3,DHBA,parvicellular oculomotor nucleus
+Su3C,DHBA,supraoculomotor cap
+Su3,DHBA,supraoculomotor nucleus
+MRa,DHBA,"midbrain raphe nuclei, Raphe nucleus, R"
+DR,DHBA,dorsal raphe nucleus
+DRC,DHBA,"dorsal raphe nucleus, caudal part"
+DRD,DHBA,"dorsal raphe nucleus, dorsal part"
+DRI,DHBA,"dorsal raphe nucleus, interfascicular part"
+DRL,DHBA,"dorsal raphe nucleus, lateral part"
+DRV,DHBA,"dorsal raphe nucleus, ventral part"
+DRVL,DHBA,"dorsal raphe nucleus, ventrolateral part"
+Lin,DHBA,linear nucleus of the midbrain
+CLiZ,DHBA,"caudal linear nucleus of the raphe, Nucleus linearis caudalis, LiC"
+CLinAz,DHBA,"caudal linear nucleus of the raphe, azygos part"
+CLinZ,DHBA,"caudal linear nucleus of the raphe, zygos part"
+RLin,DHBA,rostral linear nucleus of the raphe
+MnR,DHBA,median raphe nucleus
+PMnR,DHBA,paramedian raphe nucleus
+PDR,DHBA,posterodorsal raphe nucleus
+Rbd,DHBA,rhabdoid nucleus
+isRt,DHBA,isthmic reticular formation
+MRF,DHBA,midbrain reticular formation
+CnF,DHBA,Cuneiform nucleus
+PrCnF,DHBA,precuneiform area
+U,DHBA,nucleus U
+PTg,DHBA,pedunculo(pontine) tegmental nucleus
+PTgC,DHBA,"pedunculo(pontine) tegmental nucleus, compact part"
+PTgD,DHBA,"pedunculo(pontine) tegmental nucleus, dissipated part"
+SubCn,DHBA,subcuneiform nucleus
+Lth,DHBA,lithoid nucleus
+RN,DHBA,red nucleus
+RNdm,DHBA,"red nucleus, dorsomedial part"
+RNmc,DHBA,"red nucleus, magnocellular part; mRN"
+RNpc,DHBA,"red nucleus, parvicellular part; pRN"
+SN,DHBA,substantia nigra
+SNC,DHBA,"substantia nigra, compact part"
+SNCd,DHBA,"substantia nigra, compact part, dorsal subdivision"
+SNCm,DHBA,"substantia nigra, compact part, medial subdivision"
+SNCv,DHBA,"substantia nigra, compact part, ventral subdivision"
+SNL,DHBA,"substantia nigra, lateral part"
+SNR,DHBA,"substantia nigra, reticular part"
+VTR,DHBA,ventral tegmental region of midbrain
+VTA,DHBA,ventral tegmental area
+IF,DHBA,interfascicular nucleus
+PBP,DHBA,parabrachial pigmented nucleus
+PIF,DHBA,parainterfascicular nucleus
+PaN,DHBA,paranigral nucleus
+IP,DHBA,interpeduncular nucleus
+IPa,DHBA,"interpeduncular nucleus, apical subnucleus"
+IPc,DHBA,"interpeduncular nucleus, caudal subnucleus"
+IPdm,DHBA,"interpeduncular nucleus, dorsomedial subnucleus"
+IPi,DHBA,"interpeduncular nucleus, intermediate subnucleus"
+IPl,DHBA,"interpeduncular nucleus, lateral subnucleus"
+IPr,DHBA,"interpeduncular nucleus, rostral subnucleus"
+XMTg,DHBA,other nuclei in midbrain tegmentum
+CeMe,DHBA,central mesencephalic nucleus
+CTF,DHBA,central tegmental field
+DA8,DHBA,"A8 dopamine cells, A8"
+I3,DHBA,interoculomotor nucleus
+InC,DHBA,interstitial nucleus of Cajal
+Lt,DHBA,lateral terminal nucleus of accessory optic tract
+MCPC,DHBA,magnocellular nucleus of the posterior commissure
+MA3,DHBA,medial accessory oculomotor nucleus
+MiTg,DHBA,microcellular tegmental nucleus
+p1Rt,DHBA,p1 reticular formation
+PaC,DHBA,paracollicular tegmentum
+PaP,DHBA,parapeduncular nucleus
+Pa4,DHBA,paratrochlear nucleus
+PP,DHBA,Peripeduncular nucleus
+PDTg,DHBA,posterodorsal tegmental nucleus
+PrC,DHBA,precommissural nucleus
+PrEW,DHBA,pre-Edinger-Westphal nucleus
+RIs,DHBA,retroisthmic nucleus
+RRF,DHBA,retrorubral field
+SubB,DHBA,subbrachial nucleus
+MTc,DHBA,midbrain tectum
+SC,DHBA,superior colliculus
+cSCI,makeshift,"caudal parts of superior colliculus, intermediate layer"
+cSCS,makeshift,"caudal parts of superior colliculus, superior layer"
+rSCI,makeshift,"rostral parts of superior colliculus, intermediate layer"
+rSCS,makeshift,"rostral parts of superior colliculus, superior layer"
+SCS,DHBA,Superficial layer of superior colliculus
+SCSon,DHBA,optic nerve layer of superior colliculus
+SCSg,DHBA,superficial gray layer of superior colliculus
+SCSw,DHBA,superficial white layer of superior colliculus
+SCSz,DHBA,zonal layer of superior colliculus
+SCI,DHBA,Intermediage layer of the superior colliculus
+SCIg,DHBA,intermediate gray layer of superior colliculus
+SCIw,DHBA,intermediate white layer of superior colliculus
+SCD,DHBA,Deep layer of superior colliculus
+SCDg,DHBA,deep gray layer of superior colliculus
+SCDw,DHBA,deep white layer of superior colliculus
+BrSC,DHBA,nucleus of branchium of superior colliculus
+IC,DHBA,inferior colliculus
+CxIC,DHBA,cortex of inferior colliculus
+CICd,DHBA,dorsal cortex of inferior colliculus
+CICe,DHBA,external cortex of inferior colliculus
+CIC,DHBA,central nucleus of inferior colliculus
+ICN,DHBA,intercollicular nucleus
+INPC,DHBA,interstitial nucleus of posterior commissure
+MxTZ,DHBA,matrix layer of the tectal zone
+BrIC,DHBA,nucleus of the brachium of inferior colliculus
+PBG,DHBA,parabigeminal nucleus
+Sag,DHBA,sagulum nucleus
+SCO,DHBA,subcommissural organ
+MTS,DHBA,transient structures of midbrain
+MNM,DHBA,mesencephalic neuromere (mesomere)
+M-1,DHBA,mesomere 1
+M-2,DHBA,mesomere 2
+MZM,DHBA,marginal zone of midbrain
+IZM,DHBA,intermediate (mantle) zone of midbrain
+IZMro,DHBA,roof plate of midbrain
+IZMal,DHBA,alar plate (tectal zone) of midbrain
+IZMba,DHBA,basal plate of midbrain
+IZMbam,DHBA,medial tegmental zone
+IZMbal,DHBA,lateral tegmental zone
+IZMfl,DHBA,floor plate of midbrain
+VZM,DHBA,ventricular (matrix) zone of midbrain
+MWM,DHBA,white matter of midbrain
+bic,DHBA,brachium of inferior colliculus
+bsc,DHBA,brachium of superior colliculus
+ctg-m,DHBA,"central tegmental tract, midbrain portion"
+cpd,DHBA,cerebral peduncle (crus cerebri)
+cpn-m,DHBA,"corticopontine fibers, midbrain portion"
+fpn-m,DHBA,"frontal pontine fibers, midbrain portion"
+potpn-m,DHBA,"parieto-occipito-temporal pontine fibers, midbrain portion"
+py-m,DHBA,"pyramidal tract, midbrain portion"
+cbu-m,DHBA,"corticobulbar tract, midbrain portion"
+cmic,DHBA,commissure of inferior colliculus
+cme,DHBA,corticomesencephalic fibers
+xrsp,DHBA,decussation of rubrospinal tract
+xscp,DHBA,decussation of superior cerebellar peduncle
+x4,DHBA,decussation of trochlear nerve fibers
+dlf-m,DHBA,"dorsal longitudinal fasciculus, midbrain portion"
+xdtg,DHBA,dorsal tegmental decussation
+dtth-m,DHBA,"dorsal trigeminothalamic tract, midbrain portion"
+fr,DHBA,fasciculus retroflexus (habenuno-interpeduncular tract)
+hysp-m,DHBA,"hypothalamospinal fibers, midbrain portion"
+iptg,DHBA,interpedunculotegmental tract
+issp-m,DHBA,"interstitiospinal tract, midbrain portion"
+ll-m,DHBA,"lateral lemniscus midbrain portion, Lateral lemniscus, LL"
+ml-m,DHBA,"medial lemniscus, midbrain portion"
+mlf-m,DHBA,"medial longitudinal fasciculus, midbrain portion"
+mtg-m,DHBA,"medial tegmental tract, midbrain portion"
+me5-m,DHBA,"mesencephalic trigeminal tract, midbrain portion"
+poc,DHBA,posterior commissure
+rubu-m,DHBA,"rubrobulbar (rubronuclear) tract, midbrain portion"
+rol-m,DHBA,"rubro-olivary tract, midbrain portion"
+rsp-m,DHBA,"rubrospinal tract, midbrain portion"
+sl-m,DHBA,"spinal lemniscus, midbrain portion"
+scp,DHBA,superior cerebellar peduncle (brachium conjunctivum)
+cbru,DHBA,cerebellorubral tract
+cbth,DHBA,cerebellothalamic tract
+dtth,DHBA,dentatothalamic tract
+geru,DHBA,globose-emboliform-rubral tract
+rucb,DHBA,rubrocerebellar fibers
+tcb,DHBA,tectocerebellar fibers
+vscb-m,DHBA,"ventral spinocerebellar tract, midbrain portion"
+tbu-m,DHBA,"tectobulbar tract, midbrain portion"
+tol,DHBA,tecto-olivary fibers
+tpn,DHBA,tectopontine tract
+tsp-m,DHBA,"tectospinal tract, midbrain portion"
+xvtg,DHBA,ventral tegmental decussation
+vtth-m,DHBA,"ventral trigeminothalamic tract, midbrain portion"
+wmtg,DHBA,white matter of tegmentum
+MV,DHBA,ventricle of midbrain
+Aq,DHBA,cerebral aqueduct
+MSS,DHBA,surface structures of midbrain
+fsmv,DHBA,frenulum of the superior medullary velum
+ipf,DHBA,interpeduncular fossa
+pops,DHBA,posterior perforated substance
+icr,DHBA,infracollicular recess
+ocs,DHBA,oculomotor sulcus
+qgb,DHBA,quadrigeminal body
+r3,DHBA,root of oculomotor nerve
+r4,DHBA,root of trochlear nerve
+trill,DHBA,trigone of lateral lemniscus (acoustic trigone)
+mbv,DHBA,blood vessels of midbrain
+H,DHBA,hindbrain (rhombencephalon)
+HGM,DHBA,gray matter of the hindbrain
+VeN,collection,vestibular nuclei
+Met,DHBA,metencephalon
+CB,DHBA,cerebellum
+CBC,DHBA,cerebellar cortex
+p,collection,purkinjecell
+g,collection,granular cell
+CBV,DHBA,cerebellar vermis
+CBVp,collection,purkinjecell of vermis
+CBVg,collection,granular cell of vermis
+VeA,DHBA,"vermis, anterior lobe portion"
+VeAm,DHBA,molecular layer of VeA
+VeAp,DHBA,Purkinje cell layer of VeA
+VeAg,DHBA,granular cell layer of VeA
+VePo,DHBA,"vermis, posterior lobe portion"
+VePs,DHBA,"vermis, posterior lobe portion, superior part"
+VePsm,DHBA,molecular layer of VePs
+VePsp,DHBA,Purkinje cell layer of VePs
+VePsg,DHBA,granular cell layer of VePs
+VePi,DHBA,"vermis, posterior lobe portion, inferior part"
+VePim,DHBA,molecular layer of VePi
+VePip,DHBA,Purkinje cell layer of VePi
+VePig,DHBA,granular cell layer of VePi
+VeF,DHBA,"vermis, flocculonodular lobe portion (nodulus)"
+VeFm,DHBA,molecular layer of VeF
+VeFp,DHBA,Purkinje cell layer of VeF
+VeFg,DHBA,granular cell layer of VeF
+CBH,DHBA,cerebellar hemisphere
+CBPV,DHBA,paravermis of cerebellum
+CBPVp,collection,purkinjecell of paravermis
+CBPVg,collection,granular cell of paravermis
+PVA,DHBA,"paravermis, anterior lobe portion"
+PVAm,DHBA,molecular layer of PVA
+PVAp,DHBA,Purkinje cell layer of PVA
+PVAg,DHBA,granular cell layer of PVA
+PVP,DHBA,"paravermis, posterior lobe portion"
+PVPs,DHBA,"paravermis, posterior lobe portion, superior part"
+PVPsm,DHBA,molecular layer of PVPs
+PVPsp,DHBA,Purkinje cell layer of PVPs
+PVPsg,DHBA,granular cell layer of PVPs
+PVPi,DHBA,"paravermis, posterior lobe portion, inferior part"
+PVPim,DHBA,molecular layer of PVPi
+PVPip,DHBA,Purkinje cell layer of PVPi
+PVPig,DHBA,granular cell layer of PVPi
+PVF,DHBA,"paravermis, flocculonodular lobe portion"
+PVFm,DHBA,molecular layer of PVF
+PVFp,DHBA,Purkinje cell layer of PVF
+PVFg,DHBA,granular cell layer of PVF
+CBL,DHBA,lateral hemisphere of cerebellum
+CBLp,collection,purkinjecell of lateral heimisphere
+CBLg,collection,granular cellof lateral heimisphere
+CBLA,DHBA,"lateral hemisphere, anterior lobe portion"
+CBLAm,DHBA,molecular layer of CBLA
+CBLAp,DHBA,Purkinje cell layer of CBLA
+CBLAg,DHBA,granular cell layer of CBLA
+CBLP,DHBA,"lateral hemisphere, posterior lobe portion"
+CBLPs,DHBA,"lateral hemisphere, posterior lobe portion, superior part"
+CBLPsm,DHBA,molecular layer of CBLPs
+CBLPsp,DHBA,Purkinje cell layer of CBLPs
+CBLPsg,DHBA,granular cell layer of CBLPs
+CBLPi,DHBA,"lateral hemisphere, posterior lobe portion, inferior part"
+CBLPim,DHBA,molecular layer of CBLPi
+CBLPip,DHBA,Purkinje cell layer of CBLPi
+CBLPig,DHBA,granular cell layer of CBLPi
+CBLF,DHBA,"lateral hemisphere, flocculonodular lobe portion"
+CBLFm,DHBA,molecular layer of CBLF
+CBLFp,DHBA,Purkinje cell layer of CBLF
+CBLFg,DHBA,granular cell layer of CBLF
+CbDN,DHBA,cerebellar deep nuclei
+DT,DHBA,dentate (lateral) nucleus
+DTNO,makeshift,inhibit nucleoolivary nucleus of DT
+DTlv,DHBA,"dentate nucleus, lateroventral part"
+DTmd,DHBA,"dentate nucleus, mediodorsal part"
+InP,DHBA,interpositus (intermediate) nucleus
+InPNO,makeshift,inhibit nucleoolivary nucleus of InP
+InPM,DHBA,medial interpositus (globose) nucleus
+InPL,DHBA,lateral interpositus (emboliform) nucleus
+Fas,DHBA,fastigial (medial) nucleus
+FasL,DHBA,"fastigial nucleus, lateral part"
+FasM,DHBA,"fastigial nucleus, medial part"
+BIcb,DHBA,basal interstitial nucleus of cerebellum
+Pn,DHBA,pons
+PnBa,DHBA,basilar part of pons
+PN,DHBA,pontine nucleus
+PNd,DHBA,dorsal nucleus
+PNdl,DHBA,dorsolateral nucleus
+PNdm,DHBA,dorsomedial nucleus
+PNl,DHBA,lateral nucleus
+PNm,DHBA,median nucleus
+PNpar,DHBA,paramedian nucleus
+PNped,DHBA,peduncular nucleus
+RTg,DHBA,nucleus reticularis tegmenti pontis (NRTP)
+PnTg,DHBA,pontine tegmentum
+PnEN,DHBA,efferent nuclei of cranial nerves in pons
+6N,DHBA,abducens nucleus
+Acs7,DHBA,accessory facial nucleus
+7N,DHBA,"Facial nucleus, VII"
+7D,DHBA,"facial nucleus, dorsal subnucleus"
+7VI,DHBA,"facial nucleus, ventrointermediate subnucleus"
+7VM,DHBA,"facial nucleus, ventromedial subnucleus"
+7SH,DHBA,"facial nucleus,stylohyoid part"
+7VL,DHBA,"facial nucleus, ventrolateral subnucleus"
+Lac,DHBA,lacrimal nucleus
+Mo5,DHBA,motor nucleus of trigeminal nerve
+Mo5lpt,DHBA,"motor nucleus of trigeminal nerve, lateral pterygoid part"
+Mo5ma,DHBA,"motor nucleus of trigeminal nerve, masseter part"
+Mo5mpt,DHBA,"motor nucleus of trigeminal nerve, medial pterygoid part"
+Mo5my,DHBA,"motor nucleus of trigeminal nerve, mylohyoid part"
+Mo5te,DHBA,"motor nucleus of trigeminal nerve, temporalis part"
+SuSV,DHBA,superior salivatory nucleus
+PnAN,DHBA,afferent nuclei of cranial nerves in pons
+8Co,DHBA,cochlear nuclei
+DCo,DHBA,dorsal cochlear nucleus
+GrCo,DHBA,granular cell layer of cochlear nuclei
+VCo,DHBA,ventral cochlear nucleus
+VCoR,DHBA,"ventral cochlear nucleus, rostral part"
+VCoC,DHBA,"ventral cochlear nucleus, caudal part"
+Me5-p,DHBA,"mesencephalic nucleus of trigeminal nerve, pontine part"
+Pr5,DHBA,principal sensory nucleus of trigeminal nerve
+Pr5dm,DHBA,dorsomedial nucleus of Pr5
+Pr5vl,DHBA,ventrolateral nucleus of Pr5
+Sp5o,DHBA,"spinal nucleus of trigeminal nerve, oral subnucleus"
+8Ve-p,DHBA,vestibular nuclei in pons
+LVe,DHBA,lateral vestibular nucleus
+LVeMC,DHBA,"lateral vestibular nucleus, magnocellular part"
+LVePC,DHBA,"lateral vestibular nucleus, parvicellular part"
+SuVe,DHBA,superior vestibular nucleus
+VTg,DHBA,ventral tegmental nucleus
+VTgR,DHBA,"ventral tegmental nucleus, rostral extension"
+VTgI,DHBA,"ventral tegmental nucleus, infrafascicular part"
+VTgP,DHBA,"ventral tegmental nucleus, principal part"
+VTgS,DHBA,"ventral tegmental nucleus, suprafascicular part"
+PnAR,DHBA,auditory relay nuclei in pons
+LLN,DHBA,nuclei of lateral lemniscus
+DLL,DHBA,dorsal nucleus of lateral lemniscus
+ILL,DHBA,intermediate nucleus of lateral lemniscus
+VLL,DHBA,ventral nucleus of lateral lemniscus
+TrZ,DHBA,nucleus of trapezoid body
+TrZl,DHBA,lateral nucleus of trapezoid body
+TrZm,DHBA,medial nucleus of trapezoid body
+TrZv,DHBA,ventral nucleus of trapezoid body
+SOC,DHBA,superior olivary complex
+POI,DHBA,periolivary nuclei
+LPOI,DHBA,lateral periolivary nucleus
+MPOI,DHBA,medial periolivary nucleus
+RO,DHBA,retro-olivary cell group
+SOI,DHBA,superior olivary nucleus
+LSO,DHBA,lateral superior olivary nucleus
+MSO,DHBA,medial superior olive
+SPO,DHBA,superior paraolivary nucleus
+PrO,DHBA,preolivary nucleus
+PnRa,DHBA,raphe pontis nucleus
+DR-p,DHBA,dorsal raphe nucleus
+MnR-p,DHBA,median raphe nucleus
+PMnRt,DHBA,"paramedian raphe nucleus, reticular part"
+PRn,DHBA,raphe pontis nucleus
+RIP,DHBA,raphe interpositus nucleus
+PnRF,DHBA,pontine reticular formation;
+PB,DHBA,"Parabrachial nucleus, parabrachial neclei"
+LPB,DHBA,lateral parabrachial nucleus
+LPBc,DHBA,"lateral parabrachial nucleus, central part"
+LPBd,DHBA,"lateral parabrachial nucleus, dorsal part"
+LPBe,DHBA,"lateral parabrachial nucleus, external part"
+LPBs,DHBA,"lateral parabrachial nucleus, superior part"
+MPB,DHBA,medial parabrachial nucleus
+MPBe,DHBA,"medial parabrachial nucleus, external part"
+MPBm,DHBA,"medial parabrachial nucleus, medial part"
+SPP,DHBA,subpeduncular pigmented nucleus
+SPB,DHBA,subparabrachial nucleus
+PnRt,DHBA,reticular nuclei of pons
+PnC,DHBA,"pontine reticular nuleus caudal part, Nucleus reticularis pontis caudalis, RPC"
+PnO,DHBA,"pontine reticular nucleus, oral part"
+PLN,DHBA,paralemniscal nucleus
+PMn,DHBA,paramedian reticular nucleus
+RtTg,DHBA,reticulotegmental nucleus
+RtTgD,DHBA,"reticulotegmental nucleus, dorsal part"
+PnNA,DHBA,group of noradrenergic neurons in pons
+NC,DHBA,nucleus coeruleus
+SubC,DHBA,"SubCoeruleus nucleus, Nucleus SubCoeruleus, sC"
+SubCd,DHBA,"subcoeruleus nucleus, dorsal part"
+SubCv,DHBA,"subcoeruleus nucleus, ventral part"
+XPnTg,DHBA,other nuclei in pontine tegmentum
+Acs5,DHBA,accessory trigeminal nucleus
+AInS,DHBA,alar interstitial nucleus
+B9,DHBA,B9 serotonin cells
+Bar,DHBA,Barrington's nucleus
+PnCG,DHBA,central gray of pons
+CAT,DHBA,central nucleus of acoustic tract
+DTg,DHBA,dorsal tegmental nucleus
+DTgC,DHBA,"dorsal tegmental nucleus, central part"
+DTgP,DHBA,"dorsal tegmental nucleus, pericentral part"
+DMTg,DHBA,dorsomedial tegmental area
+PnE,DHBA,ependyma and subependymal layers of pons
+EpC,DHBA,epicoeruleus nucleus
+PnG,DHBA,pontine gamma nucleus
+IIMLF,DHBA,intermediate interstitial nucleus of medial longitudinal fasciculus
+IMLF,DHBA,interstitial nucleus of medial longitudinal fasciculus
+I5,DHBA,intertrigeminal nucleus
+JxO,DHBA,juxtaolivary nucleus
+KF,DHBA,Koelliker-Fuse nucleus
+LDTg,DHBA,Laterodorsal tegmental nucleus
+LDTgD,DHBA,"laterodorsal tegmental nucleus, dorsal part"
+LDTgV,DHBA,"laterodorsal tegmental nucleus, ventral part"
+NI,DHBA,nucleus incertus
+K,DHBA,nucleus K
+L,DHBA,nucleus L
+Pa6,DHBA,paraabducens nucleus
+PCuN,DHBA,pericuneate nuclei
+LPCu,DHBA,lateral pericuneate nucleus
+MPCu,DHBA,medial pericuneate nucleus
+PF7,DHBA,perifacial zone
+PnBi,DHBA,"pontobulbar nucleus, inferior part"
+P5,DHBA,peritrigeminal zone
+R7,DHBA,retrofacial nucleus
+RTz,DHBA,retrotrapezoid nucleus
+5N,DHBA,trigeminal nuclei
+VLTg,DHBA,ventrolateral tegmental nucleus
+SGe,DHBA,supragenual nucleus
+Mo,DHBA,myelencephalon(medulla oblongata)
+MDJ,"[Wang, 2021]",mesodiencephalic junction
+MoPy,DHBA,pyramidal part of medulla oblongata
+Ar,DHBA,arcuate nucleus of medulla oblongata
+Ct,DHBA,conterminal nucleus
+MoTg,DHBA,tegmentum of medulla oblongata
+MoEN,DHBA,efferent nuclei of cranial nerves in the medulla oblongata
+Amb,DHBA,"ambiguus nucleus, Nucleus ambiguus"
+AmbC,DHBA,"ambiguus nucleus, compact part"
+AmbL,DHBA,"ambiguus nucleus, loose part"
+AmbSC,DHBA,"ambiguus nucleus, semicompact part"
+12N,DHBA,hypoglossal nucleus
+12GH,DHBA,"hypoglossal nucleus, geniohyoid part"
+12L,DHBA,"hypoglossal nucleus, lateral part"
+12M,DHBA,"hypoglossal nucleus, medial part"
+12V,DHBA,"hypoglossal nucleus, ventral part"
+InSV,DHBA,inferior salivatory nucleus
+10N,DHBA,"Dorsal motor nucleus of vagus, dmX"
+10CaI,DHBA,"dorsal motor nucleus of vagus, caudointermediate part"
+10CeI,DHBA,"dorsal motor nucleus of vagus, centrointermediate part"
+10DI,DHBA,"dorsal motor nucleus of vagus, dorsointermediate part"
+10DR,DHBA,"dorsal motor nucleus of vagus, dorsorostral part"
+10F,DHBA,"dorsal motor nucleus of vagus, medial fringe"
+10VI,DHBA,"dorsal motor nucleus of vagus, ventrointermediate part"
+10VR,DHBA,"dorsal motor nucleus of the vagus, ventrorostral part"
+MoAN,DHBA,afferent nuclei of cranial nerves in medulla oblongata
+Sol,DHBA,solitary nucleus
+SolC,DHBA,"solitary nucleus, commissural part"
+SolD,DHBA,"solitary nucleus, dorsal part"
+SolDL,DHBA,"solitary nucleus, dorsolateral part"
+SolG,DHBA,"solitary nucleus, gelatinous part"
+SolIM,DHBA,"solitary nucleus, intermediate part"
+SolI,DHBA,"solitary nucleus, interstitial part"
+SolIc,DHBA,"solitary nucleus, interstitial part, caudal subdivision"
+SolIr,DHBA,"solitary nucleus, interstitial part, rostral (tast) subdivision"
+SolM,DHBA,"solitary nucleus, medial part"
+SolPaC,DHBA,"solitary nucleus, paracommissural part"
+SolV,DHBA,"solitary nucleus, ventral part"
+SolVL,DHBA,"solitary nucleus, ventrolateral part"
+SSol,DHBA,subsolitary nucleus
+PSol,DHBA,parasolitary nucleus
+Sp5,DHBA,spinal trigeminal nucleus
+Sp5C,DHBA,"spinal trigeminal nucleus, caudal part"
+Sp5C1,DHBA,layer 1 (marginal layer) of caudal spinal trigeminal nucleus
+Sp5C2,DHBA,layer 2 (gelatenous layer) of caudal spinal trigeminal nucleus
+SP5C3/4,DHBA,layer 3/4 (magnocellular layer) of caudal spinal trigeminal nucleus
+DM5,DHBA,dorsomedial spinal trigeminal nucleus
+Sp5ip,DHBA,"spinal trigeminal nucleus, interpolar part"
+8Ve,DHBA,vestibular nuclei in medula
+I8,DHBA,interstial nucleus of the vestibulocochlear nerve
+MVe,DHBA,medial vestibular nucleus
+MVeMC,DHBA,"medial vestibular neucleus, magnocellular part"
+MVEPC,DHBA,"medial vestibular neucleus, parvocellular part"
+EVe,DHBA,nucleus of origin of vestibular efferents of vestibular nerve
+SpVe,DHBA,spinal (inferior) vestibular nucleus
+PaVe,DHBA,paravestibular nucleus
+MoSR,DHBA,sensory relay nuclei in medulla oblongata
+ECu,DHBA,external cuneate nucleus
+Cu,DHBA,cuneate nucleus
+CuR,DHBA,"Cuneate nucleus, rotundus part"
+CuT,DHBA,"Cuneate nucleus, triangular part"
+Gr,DHBA,gracile nucleus
+GrC,DHBA,"gracile nucleus, central part"
+GrR,DHBA,"gracile nucleus, rostral part (shell)"
+PrCbN,DHBA,precerebellar nuclei
+Crb,DHBA,cribriform nucleus
+DPMn,DHBA,dorsal paramedian nucleus
+CDPMn,DHBA,caudal dorsal paramedian nucleus
+ODPMn,DHBA,rostral (oral) dorsal paramedian nucleus
+IO,DHBA,inferior olive
+IOVeN,collection,inferior olive associated with vestibular
+IOFas,collection,inferior olive associated with CBV
+IOInP,collection,inferior olive associated with CPBV
+IODT,collection,inferior olive associated with CBL
+IODM,DHBA,
+IOBe,DHBA,"inferior olive, beta nucleus"
+IOD,DHBA,
+IODC,DHBA,
+IOM,DHBA,"inferior olive, medial nucleus (MAO)"
+IOK,DHBA,Cap of Kooy of medial nucleus
+IOA,DHBA,subnucleus A of medial nucleus
+IOB,DHBA,subnucleus B of medial nucleus
+IOC,DHBA,subnucleus C of medial nucleus
+IOPr,DHBA,"inferior olive, principal nucleus"
+IOVL,DHBA,
+InM,DHBA,intercalated nucleus of medulla
+IPo,DHBA,interpositus nucleus
+PnbN,DHBA,pontobulbar nucleus
+PrH,DHBA,"prepositus hypoglossal nucleus;
+nucleus prepositus hypoglossi (NPH)"
+MoRF,DHBA,"medullary reticular formation, Reticular formation, Rt"
+DRt,DHBA,dorsal reticular nucleus
+IRt,DHBA,intermediate reticular nucleus
+CVL,DHBA,caudoventrolateral reticular nucleus
+NA/A,DHBA,noradrenaline/adrenaline cell group 1
+RVRG,DHBA,rostral ventral respiratory cell group
+RVL,DHBA,rostroventrolateral reticular nucleus of hindbrain
+GiRt,DHBA,"gigantocellular reticular nuclei, Nucleus gigantocellularis, GS"
+GiRtA,DHBA,alpha gigantocellular reticular nucleus
+LPGi,DHBA,lateral paragigantocellular nucleus
+PGi,DHBA,"paragigantocellular nucleus, Nucleus paragigantocellularis, pGS"
+APGi,DHBA,alpha part of paragigantocellular nucleus
+DPGi,DHBA,dorsal paragigantocellular nucleus
+GiRtV,DHBA,ventral gigantocellular reticular nucleus
+LMRt,DHBA,lateral reticular nuclei
+LRt,DHBA,lateral reticular nucleus (principal part)
+LRtMC,DHBA,"lateral reticular nucleus, magnocellular part"
+LRtPC,DHBA,"lateral reticular nucleus, parvicellular part"
+LRtS5,DHBA,"lateral reticular nucleus, subtrigeminal part"
+Li,DHBA,linear nucleus of hindbrain
+MdD,DHBA,"medullary reticular nucleus, dorsal part (ventral reticular nucleus)"
+MdV,DHBA,"medullary reticular nucleus, ventral part (medial reticular nucleus)"
+PCRt,DHBA,parvicellular reticular nucleus
+PCRtA,DHBA,alpha division of parvicellular reticular nucleus
+MoRa,DHBA,raphe nuclei in medulla oblongata
+RMg,DHBA,raphe magnus nucleus
+ROb,DHBA,raphe obscurus nucleus
+RPa,DHBA,raphe pallidus nucleus
+NPRa,DHBA,nucleus pararaphales
+XMoTg,DHBA,other nuclei in medullary tegmentum
+Au,DHBA,austral nucleus
+BI,DHBA,basal interstitial nucleus
+Bo,DHBA,Botzinger complex
+CGL,DHBA,central glial substance
+MoCG,DHBA,central gray of medulla oblongata
+DPO,DHBA,dorsal periolivary nucleus
+MoE,DHBA,ependyma and subependymal layers of the medulla
+EL,DHBA,endolemniscal nucleus
+EF,DHBA,epifascicular nucleus
+IF12,DHBA,interfascicular hypoglossal nucleus
+IB,DHBA,internal basal nucleus
+Nt,DHBA,notocuneate nucleus
+Z,DHBA,nucleus Z (posterodorsal subnucleus)
+Y,DHBA,nucleus Y
+X,DHBA,nucleus X (preaccessory cuneate nucleus)
+Ro,DHBA,nucleus of Roller
+PaRa,DHBA,pararaphales nucleus
+Pa5,DHBA,paratrigeminal nucleus
+PeCu,DHBA,pericuneate nucleus
+Pe5,DHBA,peritrigeminal nucleus
+PrBo,DHBA,pre-Botzinger complex
+RAmb,DHBA,retroambiguous nucleus
+SSp,DHBA,spinal accessory (supraspinal) nucleus
+SuL,DHBA,supralemniscal nucleus
+HTS,DHBA,transient structures of hindbrain
+CBT,DHBA,transient zones of cerebellar cortex
+VeT,DHBA,transient zones of cerebellar vermis
+VeTe,DHBA,external granular (germinal) zone of the vermis
+VeTm,DHBA,marginal zone of the vermis
+VeTp,DHBA,Purkinje cell zone of the vermis
+VeTi,DHBA,inner granular cell zone of the vermis
+VeTis,DHBA,superficial (cell dense) portion of VeTi
+VeTid,DHBA,deep (cell loose) portion of VeTi
+VeTv,DHBA,ventricular (germinal) zone of the vermis
+PRVT,DHBA,transient zones of cerebellar paravermis
+PRVTe,DHBA,external granular (germinal) zone of the paravermis
+PRVTm,DHBA,marginal zone of the paravermis
+PRVTp,DHBA,Purkinje cell zone of the paravermis
+PRVTi,DHBA,inner granular cell zone of the paravermis
+PRVTis,DHBA,superficial (cell dense) portion of PRVTi
+PRVTid,DHBA,deep (cell loose) portion of PRVTi
+PRVTv,DHBA,ventricular (germinal) zone of the paravermis
+CbLT,DHBA,transient zones of cerebellar lateral hemisphere
+CbLTe,DHBA,external granular (germinal) zone of lateral hemisphere
+CbLTm,DHBA,marginal zone of lateral hemisphere
+CbLTp,DHBA,Purkinje cell zone of lateral hemisphere
+CbLTi,DHBA,inner granular cell zone of lateral hemisphere
+CbLTis,DHBA,superficial (cell dense) portion of CbLTi
+CbLTid,DHBA,deep (cell loose) portionof CbLTi
+CbLTv,DHBA,ventricular (germinal) zone of lateral hemisphere
+CbFT,DHBA,transient zones of cerebellar flocculus
+CbFTe,DHBA,external granular (germinal) zone of flocculus
+CbFTm,DHBA,marginal zone of flocculus
+CbFTp,DHBA,Purkinje cell zone of flocculus
+CbFTi,DHBA,inner granular cell zone of flocculus
+CbFTis,DHBA,superficial (cell dense) portion of CbFTi
+CbFTid,DHBA,deep (cell loose) portionof CbFTi
+CbFTv,DHBA,ventricular (germinal) zone of flocculus
+TGCbN,DHBA,transient glia cell group of cerebellar deep nucleus
+CbP,DHBA,cerebellar plate
+MZCbP,DHBA,marginal (subpial stream) zone of cerebellar plate
+IZCbP,DHBA,intermediate (mantle) zone of cerebellar plate
+NTZ,DHBA,nuclear transitory zone of cerebellar plate
+CTZ,DHBA,cortical transitory zone of cerebellar plate
+VZCbP,DHBA,ventricular (neuroepithelial) zone of cerebellar plate
+CbS,DHBA,cerebellar swelling
+CbSi,DHBA,internal cerebellar swelling
+CbSe,DHBA,external cerebellar swelling
+HNM,DHBA,hindbrain neuromeres
+RhIS,DHBA,rhombencephalic isthmus
+RhA,DHBA,rhombomere A
+Rh1,DHBA,rhombomere 1
+Rh2,DHBA,rhombomere 2
+Rh3,DHBA,rhombomere 3
+RhB,DHBA,rhombomere B
+Rh4,DHBA,rhombomere 4
+RhC,DHBA,rhombomere C
+Rh5,DHBA,rhombomere 5
+Rh6,DHBA,rhombomere 6
+Rh7,DHBA,rhombomere 7
+RhD,DHBA,rhombomere D
+Rh8,DHBA,rhombomere 8
+RhL,DHBA,rhombic lip
+URL,DHBA,upper (rostral) rhombic lip
+EGLU,DHBA,external granular (germinal) layer of upper rhombic lip
+LRL,DHBA,lower (caudal) rhombic lip
+EGLL,DHBA,external granular (germinal) layer of lower rhombic lip
+TCC,DHBA,transient cell columns in pons
+MCCP,DHBA,medial cell column of pons
+ICCP,DHBA,intermediate cell column of pons
+LCCP,DHBA,lateral cell column of pons
+TPk,DHBA,transient Purkinje cell clusters
+PkA,DHBA,cluster A of Purkinje cells
+PkB,DHBA,cluster B of Purkinje cells
+PkC,DHBA,cluster C of Purkinje cells
+PkD,DHBA,cluster D of Purkinje cells
+PkE,DHBA,cluster E of Purkinje cells
+PkF,DHBA,cluster F of Purkinje cells
+PkG,DHBA,cluster G of Purkinje cells
+PkH,DHBA,cluster H of Purkinje cells
+MSH,DHBA,migratory streams in hindbrain
+REMS,DHBA,rostral (anterior) extramural migratory stream
+CEMS,DHBA,caudal (posterior) extramural migratory stream
+ImMS,DHBA,intramural migratory stream
+MZH,DHBA,marginal zone of hindbrain
+MZCB,DHBA,marginal zone of cerebellum
+MZPN,DHBA,marginal zone of pons
+MZMO,DHBA,marginal zone of medulla
+IZH,DHBA,intermediate (mantle) zone of hindbrain
+IZHal,DHBA,alar plate of intermediate zone of hindbrain
+SSA,DHBA,special somatic afferent cell column of hindbrain
+GSA,DHBA,general somatic afferent cell column of hindbrain
+GVA,DHBA,general visceral afferent cell column of hindbrain
+SVA,DHBA,special visceral afferent cell column of hindbrain
+IZHba,DHBA,basal plate of intermediate zone of hindbrain
+GVE,DHBA,general visceral efferent cell column of hindbrain
+SVE,DHBA,special visceral efferent cell column of hindbrain
+GSE,DHBA,general somatic efferent cell column of hindbrain
+IZHfl,DHBA,floor plate of intermediate zone of hindbrain
+IZHro,DHBA,roof plate of intermediate zone of hindbrain
+VZH,DHBA,ventricular (matrix) zone in hindbrain
+VZCB,DHBA,ventricular (matrix) zone of cerebellum
+VZPN,DHBA,ventricular (matrix) zone of pons
+VZMO,DHBA,ventricular (matrix) zone of medulla
+PnFlx,DHBA,pontine flexures
+CrSlp,DHBA,cranial (metacephalic) slope
+CaSlp,DHBA,caudal (myelencephalic) slope
+PnbB,DHBA,pontobulbar body
+RhGv,DHBA,rhombic grooves
+HWM,DHBA,white matter of hindbrain
+vst,collection,vestibulospinal tract
+resp,collection,reticulospinal tract
+ami,DHBA,amiculum of the olive
+af7,DHBA,ascending fibers of the facial nerve
+ctg,DHBA,central tegmental tract
+cpn,DHBA,"cortico-pontine fibers, pontine part"
+cuf,DHBA,cuneate fasciculus
+xml,DHBA,decussation of medial lemniscus
+das,DHBA,dorsal acoustic stria
+def,DHBA,dorsal external fibers
+dlf-h,DHBA,dorsal longitudinal fasciculus
+dtgth,DHBA,dorsal trigeminothalamic tract
+eaf,DHBA,external arcuate fibers
+g7,DHBA,genu of the facial nerve
+gr,DHBA,gracile fasciculus
+hio,DHBA,hilus of the inferior olive
+hysp,DHBA,hypothalamospinal tract
+icp,DHBA,inferior cerebellar peduncle
+rsf,DHBA,restiform body
+cbrf,DHBA,cerebelloreticular fibers
+cbvf,DHBA,cerebellovestibular fibers
+cucb,DHBA,cuneocerebellar tract
+dsc,DHBA,dorsal spinocerebellar tract
+ocb,DHBA,olivocerebellar tract
+rcbtm,DHBA,"reticulocerebellar tract, medullary division"
+sct,DHBA,spinocerebellar tract
+jx,DHBA,juxtarestiform body
+fasr,DHBA,fastigial reticular tract
+fasv,DHBA,fastigial vestibular tract
+tgcb,DHBA,trigeminocerebellar tract
+vecb,DHBA,vestibulocerebellar tract
+ias,DHBA,intermediate acoustic stria
+iaf,DHBA,internal arcuate fibers
+issp,DHBA,interstitiospinal tract
+lbrs,DHBA,lateral bulboreticulospinal tract
+lcs,DHBA,lateral corticospinal tract
+ll,DHBA,lateral lemniscus
+lvs,DHBA,lateral vestibulospinal tract
+lfpn,DHBA,longitudinal fasciculus of the pons
+ml,DHBA,medial lemniscus
+mlf,DHBA,medial longitudinal fasciculus
+metg,DHBA,medial tegmental tract
+mvet,DHBA,medial vestibulospinal tract
+me5,DHBA,mesencephalic trigeminal tract
+mcp,DHBA,middle cerebellar peduncle
+pncb,DHBA,pontocerebellar tract
+rctp,DHBA,"reticulocerebellar tract, pontine division"
+olcob,DHBA,olivocochlear bundle
+xpy,DHBA,pyramidal decussation
+py,DHBA,pyramidal tract
+cbu-h,DHBA,corticobulbar tract
+cre-h,DHBA,corticoreticular tract
+csp-h,DHBA,corticospinal tract
+rsp,DHBA,raphespinal tract
+lrsp,DHBA,lateral raphespinal tract
+vrsp,DHBA,ventral raphespinal tract
+rbb,DHBA,rubrobulbar tract
+rol,DHBA,rubro-olivary tract
+rusp,DHBA,rubospinal tract
+sol,DHBA,solitary tract
+slh,DHBA,spinal lemniscus in hindbrain
+spb,DHBA,spinobulbar tract
+sphy,DHBA,spinohypothalamic tract
+spme,DHBA,spinomesencephalic tract
+spre,DHBA,spinoreticular tract
+spth,DHBA,spinothalamic tract
+spve,DHBA,spinovestibular tract
+tbu,DHBA,tectobulbar tract
+sp5,DHBA,spinal trigeminal tract
+spol,DHBA,spino-olivary tract
+sm4V,DHBA,stria medulares of the fourth ventricle
+tsp,DHBA,tectospinal tract
+tfp,DHBA,transverse fibers of pons
+tz,DHBA,trapezoid body
+tri5,DHBA,trigeminothalamic tract
+ubcb,DHBA,uncinate (hooked) bundle of cerebellum
+vcsp,DHBA,ventral corticospinal tract
+vexf,DHBA,ventral external fibers
+vresp,DHBA,ventral reticulospinal tract
+vscb,DHBA,ventral spinocerebellar tract
+vtg,DHBA,ventral tegmental tract
+vtth,DHBA,ventral trigeminothalamic tract
+veme,DHBA,vestibulomesencephalic tract
+HV,DHBA,ventricles of hindbrain
+4V,DHBA,fourth ventricle
+4Vro,DHBA,roof of fourth ventricle
+lr4V,DHBA,lateral recess of fourth ventricle
+4Vfl,DHBA,floor of fourth ventricle (rhomboid fossa)
+cec,DHBA,central canal of medulla oblongata
+HSS,DHBA,surface structures of hindbrain
+CbSS,DHBA,surface structures of cerebellum
+cbf,DHBA,cerebellar fissures
+prcf,DHBA,precentral (postlingual) fissure
+pocf,DHBA,postcentral (preculminate) fissure
+icf,DHBA,intraculminate fissure
+prif,DHBA,primary (anterior superior) fissure
+psf,DHBA,posterior superior (postclival) fissure
+hof,DHBA,horizontal (intercrural) fissure
+apf,DHBA,ansoparamedian fissure
+prpy,DHBA,prepyramidal (prebiventral) fissure
+ibif,DHBA,intravbiventral fissure
+popy,DHBA,secondary (post pyramidal) fissure
+polf,DHBA,posterolateral (postnodular) fissure
+CBLL,DHBA,cerebellar lobes and lobules
+ACb,DHBA,anterior lobe
+CbI,DHBA,lobule I (lingula)
+CbII,DHBA,"lobule II (central lobule and wing, anterior part)"
+CbIII,DHBA,"lobule III (central lobule and wing, posterior part)"
+CbIV,DHBA,"lobule IV (culmen and quadrangular lobule, anterior part)"
+CbV,DHBA,"lobule V (culmen and quadrangular lobule, posterior part)"
+PCb,DHBA,posterior lobe
+CbVI,DHBA,lobule VI (declive and simplex lobule)
+CbVIIa1,DHBA,lobule VIIAf/crus I (folium and superior semilunar lobule)
+CbVIIa2,DHBA,lobule VIIAt/crus II (tuber and inferior semilunar lobule)
+CbVIIb,DHBA,lobule VIIB (gracile lobule)
+CbVIIIa,DHBA,"lobule VIIIA (pyramis and biventral lobule, anterior part)"
+CbVIIIb,DHBA,"lobule VIIIB (pyramis and biventral lobule, posterior part)"
+CbIX,DHBA,lobule IX (uvula and tosil)
+FNCb,DHBA,flocculonodular lobe
+FNCbp,makeshift,purkinje cell of flocculus
+FNCbg,makeshift,granular cell of flocculus
+CbX,DHBA,lobule X (nodulus and flocculus)
+PnSS,DHBA,surface structures of pons
+bas,DHBA,basilar sulcus
+IsRh,DHBA,isthmus of rhombencephalon
+pbr,DHBA,parabrachial recess
+pmed,DHBA,pontomedullary sulcus
+pmes,DHBA,pontomesencephalic sulcus
+r6,DHBA,root of abducens nerve
+r7,DHBA,root of facial nerve
+r7m,DHBA,motor root of facial nerve
+r7in,DHBA,root of intermediate nerve
+r5,DHBA,root of trigeminal nerve
+r5m,DHBA,motor root of trigeminal nerve
+r5s,DHBA,sensory root of trigeminal nerve
+r8,DHBA,root of vestibulocochlear nerve
+r8co,DHBA,cochlear root of vestibulocochlear nerve
+r8ve,DHBA,vestibular root of vestibulocochlear nerve
+rmv,DHBA,rostral (anterior) medullary velum
+AS4V,DHBA,adjoining structures of fourth ventricle
+AP,DHBA,area postrema
+Cho4V,DHBA,choroid plexus of the fourth ventricle
+FaC,DHBA,facial colliculus
+FovI,DHBA,fovea inferior
+FovS,DHBA,fovea superior
+FnS,DHBA,funiculus seperans
+12Tr,DHBA,hypoglossal trigone
+la4V,DHBA,lateral aperture (foramen of Luschka)
+LC,DHBA,Locus coeruleus
+MEm,DHBA,medial eminence
+ma4V,DHBA,median aperture (foramen of Magendie)
+MSul,DHBA,median sulcus
+Obx,DHBA,obex
+SulL,DHBA,sulcus limitans
+Tae,DHBA,taenia cinerea
+10Tr,DHBA,vagal trigone
+MOSS,DHBA,surface structures of medulla
+alms,DHBA,anterolateral medullary sulcus
+pros,DHBA,preolivary sulcus
+cutu,DHBA,cuneate tubercle
+dmms,DHBA,dorsal (posterior) median medullary sulcus
+fce,DHBA,foramen caecum
+grtu,DHBA,gracile tubercle (clava)
+imv,DHBA,inferior (caudal) medullary velum
+dims,DHBA,dorsal intermedite medullary sulcus
+dlms,DHBA,dorsal lateral medullary sulcus
+posos,DHBA,postolivary sulcus
+r11,DHBA,root of accessory nerve
+r11cr,DHBA,cranial root of accessory nerve
+r11sp,DHBA,spinal root of accessory nerve
+r12,DHBA,root of hypoglossal nerve
+r9,DHBA,root of glossopharyngeal nerve
+r10,DHBA,root of vagus nerve
+vmms,DHBA,ventral (anterior) median medullary sulcus
+hbv,DHBA,blood vessels of hindbrain
+SpC,DHBA,spinal cord
+SGM,DHBA,gray matter of spinal cord
+aSpC,makeshift,afferent spinal cord
+eSpC,makeshift,efferent spinal cord
+SpI,DHBA,laminar I of spinal cord
+SpII,DHBA,laminar II of spinal cord
+SpIII-IV,DHBA,laminar III and IV of spinal cord
+SpV-VI,DHBA,laminar V and VI of spinal cord
+SpVII,DHBA,laminar VII of spinal cord
+CeCv,DHBA,central cervical nucleus of spinal cord
+SpVIII,DHBA,laminar VIII of spinal cord
+SpIX,DHBA,laminar IX of spinal cord
+SpX,DHBA,laminar X of spinal cord
+SWM,DHBA,white matter of spinal cord
+dfs,DHBA,dorsal fasciculus of spinal cord
+lfs,DHBA,lateral fasciculus of spinal cord
+polt,DHBA,posterior lateral tract of spinal cord
+vfs,DHBA,ventral fasciculus of spinal cord
+SV,DHBA,ventricle of spinal cord
+cces,DHBA,central canal and ependyma of spinal cord
+SSS,DHBA,surface structures of spinal cord
+rsn,DHBA,roots of spinal nerves
+vmss,DHBA,ventral (anterior) median spinal sulcus
+spbv,DHBA,blood vessels of spinal cord
